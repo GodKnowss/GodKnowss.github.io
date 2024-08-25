@@ -11,7 +11,7 @@ title: Home
         <a href="cv.html">CV</a>
     </div>
     <div>
-        <a href="research.html">CV</a>
+        <a href="research.html">Research</a>
     </div>
 </div>
 
