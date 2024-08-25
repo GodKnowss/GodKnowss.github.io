@@ -50,9 +50,9 @@ Below is a list of some of the key courses I have completed and currently enroll
 
 ## Extra content
 ### Digital Signal Processing
-[Proofs #1](research.md)
+[Proofs #1](assets/MichaelTung_Resume_2024_2025.pdf)
 
 ### Communication Systems
-[Useful Formula sheet](research.md)
+[Useful Formula sheet](assets/MichaelTung_Resume_2024_2025.pdf)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
