@@ -1,10 +1,10 @@
 title: "Michael Tung"
-description: "Personal website for my CV/Resume and research experience"
+description: "Personal website"
 theme: minima
 
 # Additional options
 author: Michael Tung
-email: xxxxx@example.com
+email: michael.tung@ufl.edu
 social:
   github: GodKnowss
   linkedin: abcd
@@ -13,6 +13,6 @@ social:
 header_pages:
   - index.md       # Home page
   - cv.md          # CV page
-  - research.md    # Research page
+  - research.html    # Research page, later fix it to be md ?? or change all to html ...?
   - coursework.md     # Coursework page
   - contact.md     # Contact page
