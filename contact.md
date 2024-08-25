@@ -9,7 +9,7 @@ I’m always open to new opportunities and collaborations. Feel free to reach ou
 
 ## Email
 You can email me directly at:  
-[xxxx@example.com](mailto:youremail@example.com)
+[michael.tung@ufl.edu](mailto:michael.tung@ufl.edu)
 
 ## LinkedIn
 Connect with me on LinkedIn:  
@@ -23,4 +23,4 @@ Check out my projects on GitHub:
 I’m currently based in Florida.
 ---
 
-Looking forward to hearing from you!
+Looking forward to hearing from you!!!
