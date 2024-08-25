@@ -1,1 +1,10 @@
+title: "Michael Tung"
+description: "Personal website for my CV/Resume and research experience"
 theme: minima
+
+# Additional options
+author: Michael Tung
+email: xxxxx@example.com
+social:
+  github: GodKnowss
+  linkedin: abcd
