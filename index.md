@@ -5,10 +5,10 @@ title: Home
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <a href="index.html">Home</a>
+        <a href="index.md">Home</a>
     </div>
     <div>
-        <a href="cv.html">CV</a>
+        <a href="cv.md">CV</a>
     </div>
 </div>
 
