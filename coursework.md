@@ -4,7 +4,7 @@ title: Coursework
 ---
 
 # Relevant Coursework
-
+Below is a list of some of the key courses I have completed and currently enrolled. 
 ## Computer Science
 
 - **Data Structures & Algorithms**  
@@ -48,7 +48,11 @@ title: Coursework
 
 ---
 
+## Extra content
 ### Digital Signal Processing
-Here are some of my proofs ?
+[Proofs #1](research.md)
+
+### Communication Systems
+[Useful Formula sheet](research.md)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
