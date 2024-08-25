@@ -28,6 +28,6 @@ Hi, I'm Michael Tung (MT), an undergraduate student passionate about signal proc
 
 ### Recent Work
 - Project 1: RFSoC and drone detection
-- Project 2: FPGA and microprocessor
+- Project 2: FPGA and microprocessor on drone
 
 Feel free to explore and reach out!
