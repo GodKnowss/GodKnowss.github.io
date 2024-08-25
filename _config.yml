@@ -13,6 +13,6 @@ social:
 header_pages:
   - index.md       # Home page
   - cv.md          # CV page
-  - research.md    # Research page, later fix it to be md ?? or change all to html ...? it seems the template only work with md for now
+  - research.md    # Research page, it seems the template only work with md for now, later maybe have skill and time change to html for greater freedom
   - coursework.md     # Coursework page
   - contact.md     # Contact page
