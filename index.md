@@ -5,19 +5,19 @@ title: Home
 
 <div style="display: flex; flex-direction: column;">
   <div>
-        <a href="index.md">Home</a>
+        <a href="index.html">Home</a>
   </div>
   <div>
-        <a href="cv.md">CV</a>
+        <a href="cv.html">CV</a>
     </div>
     <div>
-        <a href="research.md">Research</a>
+        <a href="research.html">Research</a>
     </div>
   <div>
-        <a href="contact.md">Contact</a>
+        <a href="contact.html">Contact</a>
     </div>
   <div>
-        <a href="coursework.md">Coursework</a>
+        <a href="coursework.html">Coursework</a>
     </div>
 </div>
 
