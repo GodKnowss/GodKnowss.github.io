@@ -9,22 +9,22 @@ title: Home
   </div>
   <div>
         <a href="cv.html">CV</a>
-    </div>
-    <div>
-        <a href="research.html">Research</a>
-    </div>
+  </div>
   <div>
-        <a href="contact.html">Contact</a>
-    </div>
+        <a href="research.html">Research</a>
+  </div>
   <div>
         <a href="coursework.html">Coursework</a>
-    </div>
+  </div>
+  <div>
+        <a href="contact.html">Contact</a>
+  </div>
 </div>
 
 
 # Welcome to My Website!
 
-Hi, I'm Michael Tung (MT), an undergraduate student passionate about signal processing, machine learning, and digital design. Here, you can find my [CV](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page.
+Hi, I'm Michael Tung (MT), an undergraduate student and researcher at the University of Florida (UF) who is passionate about signal processing, machine learning, and digital design. Here, you can find my [CV](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page.
 
 ### Recent Work
 - Project 1: RFSoC and drone detection
