@@ -41,7 +41,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Engineering Design and Professional Skills
 
 - **Design I**  
-  Microprocessor, analog, digital system, and PCB design.
+  Design, produce, and report on a hardware prototype (Microprocessor, analog, digital system, and PCB design), meeting defined specifications and using a structured design methodology. Includes project management, hardware prototyping, and project reporting. 
 
 - **Professional Communication for Engineers**  
   Focused on developing written and oral communication skills tailored for technical and engineering contexts, including reports, presentations, and collaboration in professional settings.
@@ -51,8 +51,8 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Extra content
 
 ### Fundamentals of Machine Learning
-[Final Report](assets/Course_material/EEE4773/EEE4773_Final_Report.pdf)
-[Useful Formula sheet 1](./assets/Course_material/EEE4773/EEE4773_Midterm.pdf)
+[Final Report](assets/Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
+[Useful Formula sheet 1](./assets/Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
 [Useful Formula sheet 2](./assets/Course_material/EEE4773/EEE4773_Final.pdf)
 
 ### Digital Signal Processing
