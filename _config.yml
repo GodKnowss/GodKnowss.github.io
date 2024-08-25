@@ -5,9 +5,11 @@ theme: minima
 # Additional options
 author: Michael Tung
 email: michael.tung@ufl.edu
-social:
-  github: GodKnowss
-  linkedin: linkedin.com/in/michael-tung-4340a12b1
+
+# Social networks
+github_username: GodKnowss
+linkedin_username: michael-tung-4340a12b1
+
 
 # Define the order of navigation links
 header_pages:
