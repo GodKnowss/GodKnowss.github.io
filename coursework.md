@@ -4,54 +4,50 @@ title: Coursework
 ---
 
 # Relevant Coursework
-fix it later ....
+
 ## Computer Science
 
-- **[Algorithms and Data Structures](#algorithms-and-data-structures)**: Explored fundamental algorithms, including sorting, searching, and graph algorithms.
-- **[Machine Learning](#machine-learning)**: Studied supervised and unsupervised learning, including neural networks, decision trees, and clustering techniques.
-- **[Operating Systems](#operating-systems)**: Learned about process management, memory management, and file systems in Unix-based operating systems.
+- **Data Structures & Algorithms**  
+  Studied fundamental data structures (e.g., linked lists, trees, graphs) and algorithms (e.g., sorting, searching, dynamic programming). Gained experience in analyzing algorithm complexity and implementing efficient algorithms.
 
-## Electrical Engineering
+- **Fundamentals of Machine Learning**  
+  Covered supervised and unsupervised learning, regression analysis, classification algorithms, SVM, and neural networks. Worked with frameworks like TensorFlow and scikit-learn.
 
-- **[Digital Signal Processing](#digital-signal-processing)**: Focused on discrete-time signal processing, Fourier transforms, and filter design.
-- **[RF Circuit Design](#rf-circuit-design)**: Gained hands-on experience designing radio-frequency circuits and systems for communication applications.
-- **[Embedded Systems](#embedded-systems)**: Worked on microcontroller programming and real-time systems for hardware-software integration.
+## Electrical and Computer Engineering
+
+- **Digital Signal Processing (DSP)**  
+  Explored discrete-time signal processing, Fourier transforms, filtering techniques, filter design, and applications in communication systems and control.
+
+- **Microprocessor Applications**  
+  Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with hardware peripherals.
+
+- **Digital Design** and **Reconfigurable Computing**  
+  Examined the design of adaptive systems using FPGAs and other reconfigurable hardware. Focused on hardware acceleration of computational tasks and optimized designs.
+
+- **Electronic Circuits II**  
+  Covered the analysis and design of analog electronic circuits, including operational amplifiers, filters, and signal amplifiers.
+
+- **Communication Systems**  
+  Studied analog and digital communication systems, including modulation techniques, signal processing for communication, and noise analysis in communication channels.
 
 ## Mathematics
 
-- **[Linear Algebra](#linear-algebra)**: Studied vector spaces, matrices, eigenvalues, and applications in machine learning and signal processing.
-- **[Probability and Statistics](#probability-and-statistics)**: Applied probability theory and statistical methods to analyze and solve real-world problems.
+- **Real & Complex Analysis**  
+  Advanced calculus topics including real and complex number systems, metric spaces, and integration techniques.
+
+- **Stochastic Methods**  
+  Covered probability theory, random processes, and their applications in systems engineering, including stochastic modeling for signal processing and communications.
+
+## Engineering Design and Professional Skills
+
+- **Design I**  
+  Microprocessor, analog, digital system, and PCB design.
+
+- **Professional Communication for Engineers**  
+  Focused on developing written and oral communication skills tailored for technical and engineering contexts, including reports, presentations, and collaboration in professional settings.
 
 ---
 
-## Algorithms and Data Structures
+This coursework showcases my breadth of knowledge and skills in both computer science and electrical engineering, with a strong foundation in mathematics and practical engineering design.
 
-Detailed information about Algorithms and Data Structures.
-
-## Machine Learning
-
-Detailed information about Machine Learning.
-
-## Operating Systems
-
-Detailed information about Operating Systems.
-
-## Digital Signal Processing
-
-Detailed information about Digital Signal Processing.
-
-## RF Circuit Design
-
-Detailed information about RF Circuit Design.
-
-## Embedded Systems
-
-Detailed information about Embedded Systems.
-
-## Linear Algebra
-
-Detailed information about Linear Algebra.
-
-## Probability and Statistics
-
-Detailed information about Probability and Statistics.
+Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
