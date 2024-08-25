@@ -16,11 +16,12 @@ Below are some of the research/personal projects I have worked on, focusing on s
 - **Description**: This project involves implementing and testing FPGA on ARLO.
 - **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
-### **multi-view 2d boundary extraction**
-- **Description**: This project involves developing and implementing a 3D object-tracking camera system using Python and OpenCV within the lab's testing space. I have also enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration. 
-- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
 ## Completed Projects
+
+### **Multi-view 2d boundary extraction**
+- **Description**: This project involves developing and implementing a 3D object-tracking camera system using Python and OpenCV within the lab's testing space. I have also enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration. 
+- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
 ### **FPGA-based Pong Game**
 - **Description**: This project involved designing and implementing a Pong game using VHDL and implement it on FPGA.
