@@ -51,12 +51,14 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Extra content
 
 ### Fundamentals of Machine Learning
-[Final Report](assets/Course_material/EEE4773/Change_of_variable_and_proof_of_DTFT_time_reversal_property.docx)
+[Final Report](assets/Course_material/EEE4773/EEE4773_Final_Report.pdf)
+[Useful Formula sheet 1](./assets/Course_material/EEE4773/EEE4773_Midterm.pdf)
+[Useful Formula sheet 2](./assets/Course_material/EEE4773/EEE4773_Final.pdf)
 
 ### Digital Signal Processing
-[Proofs #1](assets/Course_material/EEL5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.docx)
+[Proofs #1](assets/Course_material/EEL5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.pdf)
 
 ### Communication Systems
-[Useful Formula sheet](./assets/Course_material/EEL4514C/Comm_Notes_Sheet.docx)
+[Useful Formula sheet](./assets/Course_material/EEL4514C/Comm_Notes_Sheet.pdf)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
