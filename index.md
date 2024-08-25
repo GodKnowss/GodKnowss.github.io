@@ -5,10 +5,13 @@ title: Home
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <a href="index.md">Home</a>
+        <a href="index.html">Home</a>
     </div>
     <div>
-        <a href="cv.md">CV</a>
+        <a href="cv.html">CV</a>
+    </div>
+    <div>
+        <a href="research.html">CV</a>
     </div>
 </div>
 
@@ -18,6 +21,6 @@ Hi, I'm Michael Tung, an undergraduate student passionate about signal processin
 
 ### Recent Work
 - Project 1: RFSoC
-- Project 2: [Brief description]
+- Project 2: FPGA
 
 Feel free to explore and reach out!
