@@ -13,6 +13,12 @@ title: Home
     <div>
         <a href="research.html">Research</a>
     </div>
+  <div>
+        <a href="contact.md">Contact</a>
+    </div>
+  <div>
+        <a href="Coursework.md">Coursework</a>
+    </div>
 </div>
 
 
