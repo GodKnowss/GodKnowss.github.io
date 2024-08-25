@@ -8,3 +8,12 @@ email: xxxxx@example.com
 social:
   github: GodKnowss
   linkedin: abcd
+
+# Example of navigation control in _config.yml (check your theme documentation for specifics)
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv.md
+  - title: "Research"
+    url: /research.html
