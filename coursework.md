@@ -19,7 +19,7 @@ Below is a list of some of the key courses I have completed and currently enroll
   Explored discrete-time signal processing, Fourier transforms, filtering techniques, filter design, and applications in communication systems and control.
 
 - **Microprocessor Applications**  
-  Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with hardware peripherals.
+  Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with various hardware peripherals.
 
 - **Digital Design** and **Reconfigurable Computing**  
   Examined the design of adaptive systems using FPGAs and other reconfigurable hardware. Focused on hardware acceleration of computational tasks and optimized designs.
@@ -33,10 +33,10 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Mathematics
 
 - **Real & Complex Analysis**  
-  Advanced calculus topics including real and complex number systems, metric spaces, and integration techniques.
+  Advanced calculus topics including real and complex number systems, metric spaces, and integration.
 
 - **Stochastic Methods**  
-  Covered probability theory, random processes, and their applications in systems engineering, including stochastic modeling for signal processing and communications.
+  Covered probability theory, random processes, and their applications in electrical engineering, including stochastic modeling for signal processing and communications.
 
 ## Engineering Design and Professional Skills
 
@@ -44,10 +44,9 @@ Below is a list of some of the key courses I have completed and currently enroll
   Design, produce, and report on a hardware prototype (Microprocessor, analog, digital system, and PCB design), meeting defined specifications and using a structured design methodology. Includes project management, hardware prototyping, and project reporting. 
 
 - **Professional Communication for Engineers**  
-  Focused on developing written and oral communication skills tailored for technical and engineering contexts, including reports, presentations, and collaboration in professional settings.
+  Focused on developing written and oral communication skills for technical and engineering contexts, including reports, presentations, and collaboration in professional settings.
 
 ---
-
 ## Extra content
 
 ### Fundamentals of Machine Learning
