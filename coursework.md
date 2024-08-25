@@ -53,7 +53,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 ### Fundamentals of Machine Learning
 [Final Report](assets/Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
 [Useful Formula sheet 1](./assets/Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
-[Useful Formula sheet 2](./assets/Course_material/EEE4773/EEE4773_Final.pdf)
+[Useful Formula sheet 2](./assets/Course_material/EEE4773/EEE_4773_Final.pdf)
 
 ### Digital Signal Processing
 [Proofs #1](assets/Course_material/EEL5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.pdf)
