@@ -13,7 +13,7 @@ You can email me directly at:
 
 ## LinkedIn
 Connect with me on LinkedIn:  
-[linkedin](linkedin.com/in/michael-tung-4340a12b1)
+[linkedin](https://www.linkedin.com/in/michael-tung-4340a12b1/)
 
 ## GitHub
 Check out my projects on GitHub:  
