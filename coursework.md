@@ -15,7 +15,7 @@ title: Coursework
 
 ## Electrical and Computer Engineering
 
-- **Digital Signal Processing (DSP)**  
+- **[Digital Signal Processing (DSP)](#digital-signal-processing)**  
   Explored discrete-time signal processing, Fourier transforms, filtering techniques, filter design, and applications in communication systems and control.
 
 - **Microprocessor Applications**  
@@ -48,6 +48,7 @@ title: Coursework
 
 ---
 
-This coursework showcases my breadth of knowledge and skills in both computer science and electrical engineering, with a strong foundation in mathematics and practical engineering design.
+### Digital Signal Processing
+Here are some of my proofs ?
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
