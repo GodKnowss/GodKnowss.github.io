@@ -14,6 +14,6 @@ nav:
   - title: "Home"
     url: /
   - title: "CV"
-    url: /cv.md
+    url: /cv.html
   - title: "Research"
     url: /research.html
