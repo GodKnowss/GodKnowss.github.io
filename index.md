@@ -17,7 +17,7 @@ title: Home
         <a href="contact.md">Contact</a>
     </div>
   <div>
-        <a href="Coursework.md">Coursework</a>
+        <a href="coursework.md">Coursework</a>
     </div>
 </div>
 
