@@ -10,7 +10,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **Data Structures & Algorithms**  
   Studied fundamental data structures (e.g., linked lists, trees, graphs) and algorithms (e.g., sorting, searching, dynamic programming). Gained experience in analyzing algorithm complexity and implementing efficient algorithms.
 
-- **Fundamentals of Machine Learning**  
+- **[Fundamentals of Machine Learning](#fundamentals-of-machine-learning)**  
   Covered supervised and unsupervised learning, regression analysis, classification algorithms, SVM, and neural networks. Worked with frameworks like TensorFlow and scikit-learn.
 
 ## Electrical and Computer Engineering
@@ -27,7 +27,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **Electronic Circuits II**  
   Covered the analysis and design of analog electronic circuits, including operational amplifiers, filters, and signal amplifiers.
 
-- **Communication Systems**  
+- **[Communication Systems](#communication-systems)**  
   Studied analog and digital communication systems, including modulation techniques, signal processing for communication, and noise analysis in communication channels.
 
 ## Mathematics
@@ -49,10 +49,14 @@ Below is a list of some of the key courses I have completed and currently enroll
 ---
 
 ## Extra content
+
+### Fundamentals of Machine Learning
+[Final Report](assets/Course_material/EEE4773/Change_of_variable_and_proof_of_DTFT_time_reversal_property.docx)
+
 ### Digital Signal Processing
-[Proofs #1](assets/MichaelTung_Resume_2024_2025.pdf)
+[Proofs #1](assets/Course_material/EEL5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.docx)
 
 ### Communication Systems
-[Useful Formula sheet](assets/MichaelTung_Resume_2024_2025.pdf)
+[Useful Formula sheet](./assets/Course_material/EEL4514C/Comm_Notes_Sheet.docx)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
