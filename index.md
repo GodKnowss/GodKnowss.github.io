@@ -25,7 +25,7 @@ title: Home
 # Welcome to My Website!
 ## About me
 Hi, I'm Michael Tung (MT), an undergraduate student at the University of Florida (UF) who is passionate about digital signal processing, machine learning, communication, applied math, embedded systems, and digital design. <br>
-I am currently conducting research with Dr. Bobda, Dr. Shea, and Dr. Wong at the University of Florida. <br>
+I am currently conducting research with Dr. Bobda, Dr. Shea, and Dr. Wong at the University of Florida. 
 I'm looking forward to continuing my research and coursework in signal processing, machine learning, digital design, and more. I also hope to collaborate with top researchers in graduate school. <br>
 You can find my [CV](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page.
 
