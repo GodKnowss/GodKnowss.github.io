@@ -45,7 +45,7 @@ Below are some of the research/personal projects I have worked on, focusing on s
 
 
 ## Future Directions
-I plan to continue advancing my research and studies in signal processing, machine learning, and digital design. I also hope to continue my academic journey in grad school with excellent researchers.
+I plan to continue advancing my research and studies in signal processing, machine learning, digital design, and more. I also hope to continue my academic journey in grad school with excellent researchers.
 
 ---
 For more information, feel free to explore my [CV](cv.md) or [Contact](contact.md) page.
