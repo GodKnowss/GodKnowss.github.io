@@ -4,7 +4,7 @@ title: Research
 ---
 
 # Projects
-Below are some of the research/personal projects I have worked on, focusing on signal processing, machine learning, embedded systems, and FPGA. 
+Below are some of the research/personal projects I have worked on, focusing on FPGA design, signal processing, communication systems, machine learning, and embedded systems. 
 
 ## Ongoing Projects
 
@@ -12,19 +12,23 @@ Below are some of the research/personal projects I have worked on, focusing on s
 - **Description**: This project involves implementing algorithms to detect the presence of signals characteristic of communications used to control unmanned aerial vehicles or drones.
 - **Supervisor**: Dr. Shea and Dr. Wong at Comms/network Lab (Team GatorWings) at the University of Florida
 
-### **ARLO automonous drone**
-- **Description**: This project involves implementing and testing FPGA on ARLO.
-- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
 
 ## Completed Projects
+
+### **ARLO automonous drone**
+- **Description**: This project involves implementing and testing FPGA on ARLO.
+- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
 ### **Multi-view 2d boundary extraction**
 - **Description**: This project involves developing and implementing a 3D object-tracking camera system using Python and OpenCV within the lab's testing space. I have also enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration. 
 - **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
 
 ### **FPGA-based Pong Game**
-- **Description**: This project involved designing and implementing a Pong game using VHDL and implement it on FPGA.
+- **Description**: This project involved designing and implementing a Pong game and VGA output using VHDL and implement it on FPGA.
+
+### **American Sign Language Classifier**
+- **Description**: In this project, my teammate and I have developed a convolutional neural network (CNN) to classify American Sign Language (ASL) hand gestures.
 
 ### **Circuit Analysis Tool**
 - **Description**: Developed a C++ tool for circuit analysis, calculating currents, voltage potentials, and drops from netlist data.
@@ -45,7 +49,7 @@ Below are some of the research/personal projects I have worked on, focusing on s
 
 
 ## Future Directions
-I plan to continue advancing my research and studies in signal processing, machine learning, digital design, and more. I also hope to continue my academic journey in grad school with excellent researchers.
+I plan to continue advancing my research and studies in signal processing, machine learning, digital design, and more. I also hope to continue my academic journey in graduate school with excellent researchers.
 
 ---
 For more information, feel free to explore my [CV](cv.md) or [Contact](contact.md) page.
