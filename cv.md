@@ -3,8 +3,6 @@ layout: page
 title: CV
 ---
 
-# My CV
-
 Here is my CV/Resume
 <iframe src="assets/MichaelTung_Resume_2024.pdf" width="800px" height="600px" style="border:none;"></iframe>
 
