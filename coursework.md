@@ -50,14 +50,14 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Extra content
 
 ### Fundamentals of Machine Learning
-[Final Report](assets/Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
-[Useful Formula sheet 1](./assets/Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
-[Useful Formula sheet 2](./assets/Course_material/EEE4773/EEE_4773_Final.pdf)
+[Final Report](./assets/UF_Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
+[Useful Formula sheet 1](./assets/UF_Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
+[Useful Formula sheet 2](./assets/UF_Course_material/EEE4773/EEE_4773_Final.pdf)
 
 ### Digital Signal Processing
-[Proofs #1](assets/Course_material/EEL5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.pdf)
+[Proofs #1](./assets/UF_Course_material/EEE5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.pdf)
 
 ### Communication Systems
-[Useful Formula sheet](./assets/Course_material/EEL4514C/Comm_Notes_Sheet.pdf)
+[Useful Formula sheet](./assets/UF_Course_material/EEL4514C/Comm_Notes_Sheet.pdf)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
