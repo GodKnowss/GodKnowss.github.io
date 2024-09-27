@@ -40,7 +40,10 @@ Below is a list of some of the key courses I have completed and currently enroll
 
 ## Engineering Design and Professional Skills
 
-- **Design I**  
+- **Integrated Product and Process Design (IPPD)**  
+The capstone project involves working in teams with industry sponsors to design and develop real-world products. This course focuses on practical, hands-on engineering experience. Here is the link to [my team](https://www.ippd.ufl.edu/blogs/ay2425team09/).
+
+- **Electrical Engineering Design I**  
   Design, produce, and report on a hardware prototype (Microprocessor, analog, digital system, and PCB design), meeting defined specifications and using a structured design methodology. Includes project management, hardware prototyping, and project reporting. 
 
 - **Professional Communication for Engineers**  
