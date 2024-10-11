@@ -40,7 +40,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 
 ## Engineering Design and Professional Skills
 
-- **Integrated Product and Process Design (IPPD)**
+- **Integrated Product and Process Design (IPPD)** <br>
   The capstone project involves working in teams with industry sponsors (Northrop Grumman) to design and develop real-world products. Here is the link to [my teams blog](https://www.ippd.ufl.edu/blogs/ay2425team09/).
 
 - **Electrical Engineering Design I**  
