@@ -21,8 +21,8 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **Microprocessor Applications**  
   Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with various hardware peripherals.
 
-- **Digital Design** and **Reconfigurable Computing**  
-  Examined the design of adaptive systems using FPGAs and other reconfigurable hardware. Focused on hardware acceleration of computational tasks and optimized designs.
+- **Digital Design** and **[Reconfigurable Computing](#Reconfigurable Computing)**  
+  Explored the design of adaptive systems using FPGAs, focusing on hardware acceleration of computational tasks. Optimized designs through pipeline implementation, timing analysis, and throughput improvement to achieve high-performance, efficient systems.
 
 - **Electronic Circuits II**  
   Covered the analysis and design of analog electronic circuits, including operational amplifiers, filters, and signal amplifiers.
@@ -53,7 +53,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Extra content
 
 ### Fundamentals of Machine Learning
-[Final Report](./assets/UF_Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
+[Final Project Report](./assets/UF_Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
 [Useful Formula sheet 1](./assets/UF_Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
 [Useful Formula sheet 2](./assets/UF_Course_material/EEE4773/EEE_4773_Final.pdf)
 
@@ -62,5 +62,8 @@ Below is a list of some of the key courses I have completed and currently enroll
 
 ### Communication Systems
 [Useful Formula sheet](./assets/UF_Course_material/EEL4514C/Comm_Notes_Sheet.pdf)
+
+### Reconfigurable Computing
+[1D Time-domain Convolution FPGA Report](./assets/UF_Course_material/EEL5721_ReconfigurableComputing/final_project_report.pdf)
 
 Feel free to explore my [Research](research.md) or [Contact](contact.md) pages for more information.
