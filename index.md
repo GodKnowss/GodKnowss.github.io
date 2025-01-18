@@ -25,8 +25,8 @@ title: Home
 # Welcome to My Website!
 ## About me
 Hi, I am Michael Tung (MT), an undergraduate student at the University of Florida (UF) who is passionate about signal processing, machine learning, communications systems, applied math, embedded systems, and FPGA/digital design. <br>
-I am currently conducting research under the guidance of Dr. Shea and Dr. Wong at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
-Previously, I worked with Dr. Bobda on digital design and embedded systems. <br>
+I am currently conducting research under the guidance of [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
+Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) on digital design and embedded systems. <br>
 
 You can find my [CV/Resume](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page. <br>
 

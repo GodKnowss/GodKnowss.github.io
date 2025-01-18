@@ -21,7 +21,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **Microprocessor Applications**  
   Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with various hardware peripherals.
 
-- **Digital Design** and **[Reconfigurable Computing](#reconfigurable-computing)**  
+- **Digital Design** and **[Reconfigurable Computing](#reconfigurable-computing)**  <!-- Hyperlink needs to be xxx-xxx. -->
   Explored the design of adaptive systems using FPGAs, focusing on hardware acceleration of computational tasks. Optimized designs through pipeline implementation, timing analysis, and throughput improvement to achieve high-performance, efficient systems.
 
 - **Electronic Circuits II**  
