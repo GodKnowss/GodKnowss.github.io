@@ -18,17 +18,26 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **[Digital Signal Processing (DSP)](#digital-signal-processing)**  
   Explored discrete-time signal processing, Fourier transforms, filtering techniques, filter design, and applications in communication systems and control.
 
+- **Real-Time DSP with HLS and RFSoC**  
+  Focused on real-time digital signal processing, utilizing Vitis high-level synthesis (HLS) to program the RFSoC 4x2 platform for advanced DSP applications.
+
 - **Microprocessor Applications**  
   Focused on programming microprocessors and embedded systems. Developed real-time applications and interfaced with various hardware peripherals.
 
-- **Digital Design** and **[Reconfigurable Computing](#reconfigurable-computing)**  <!-- Hyperlink needs to be xxx-xxx. -->
+- **Digital Design** and **[Reconfigurable Computing](#reconfigurable-computing)** <!-- Hyperlink needs to be xxx-xxx. -->  
   Explored the design of adaptive systems using FPGAs, focusing on hardware acceleration of computational tasks. Optimized designs through pipeline implementation, timing analysis, and throughput improvement to achieve high-performance, efficient systems.
+
+- **Reconfigurable Computing 2**  
+  Focused on overcoming productivity bottlenecks in reconfigurable computing due to complex design challenges. Covered advanced topics, including high-performance FPGA application development using state-of-the-art FPGA boards and Universal Verification Methodology (UVM) for system verification. Explored research trends aimed at improving design methodologies and enhancing productivity in FPGA-based systems.
 
 - **Electronic Circuits II**  
   Covered the analysis and design of analog electronic circuits, including operational amplifiers, filters, and signal amplifiers.
 
 - **[Communication Systems](#communication-systems)**  
   Studied analog and digital communication systems, including modulation techniques, signal processing for communication, and noise analysis in communication channels.
+
+- **Graph	Theory in Communications	and	Networks**  
+  Covered topics in graph theory and complex networks, emphasizing their applications to problems in communication and networking. Focused on algorithms, their implementation, and their use in optimizing routing, reliability, and traffic flow in network systems.
 
 ## Mathematics
 
@@ -37,6 +46,9 @@ Below is a list of some of the key courses I have completed and currently enroll
 
 - **Stochastic Methods**  
   Covered probability theory, random processes, and their applications in electrical engineering, including stochastic modeling for signal processing and communications.
+
+- **[Linear Algebra for Data Science](https://people.clas.ufl.edu/hwagner/mas-4115-linear-algebra-for-data-science/)**  
+  Applied linear algebra concepts in data science and machine learning.
 
 ## Engineering Design and Professional Skills
 
