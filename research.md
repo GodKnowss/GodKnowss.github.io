@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Research
 ---
 
@@ -10,19 +10,18 @@ Below are some of the research/personal projects I have worked on, focusing on F
 
 ### **Real-Time RF Spectrum Monitoring for Drone Detection**
 - **Description**: This project involves implementing algorithms to detect the presence of signals characteristic of communications used to control unmanned aerial vehicles or drones.
-- **Supervisor**: Dr. Shea and Dr. Wong at Comms/network Lab (Team GatorWings) at the University of Florida
-
+- **Supervisor**: [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at Wireless Information Networking Group (WING) at the University of Florida
 
 
 ## Completed Projects
 
 ### **ARLO automonous drone**
 - **Description**: This project involves implementing and testing FPGA on ARLO.
-- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
+- **Supervisor**: [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) at Smart Systems Lab (SSL) at the University of Florida
 
 ### **Multi-view 2d boundary extraction**
 - **Description**: This project involves developing and implementing a 3D object-tracking camera system using Python and OpenCV within the lab's testing space. I have also enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration. 
-- **Supervisor**: Dr. Bobda at Smart Systems Lab (SSL) at the University of Florida
+- **Supervisor**: [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) at Smart Systems Lab (SSL) at the University of Florida
 
 ### **FPGA-based Pong Game**
 - **Description**: This project involved designing and implementing a Pong game and VGA output using VHDL and implement it on FPGA.
@@ -40,7 +39,6 @@ Below are some of the research/personal projects I have worked on, focusing on F
 
 ### **Open Project Space (OPS)**
 - **Description**: Designed and implemented multiple projects related to circuits, signals, communication systems, and programming, like a small project on Red-Light Green Light. Led a team of 3 to complete multiple projects like Distant sensor and Red-Light Green Light.
-
 
 ## Publications
 - **Undergraduate Honor Thesis**  
