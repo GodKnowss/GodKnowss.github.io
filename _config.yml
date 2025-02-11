@@ -1,6 +1,7 @@
 title: "Michael Tung"
 description: "A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)"
-theme: minima
+# theme: minima
+remote_theme: mmistakes/minimal-mistakes-jekyll #testing
 
 # Additional options
 author: Michael Tung
