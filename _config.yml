@@ -1,15 +1,23 @@
 title: "Michael Tung"
-description: "A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)"
-# theme: minima
-remote_theme: mmistakes/minimal-mistakes-jekyll #testing
+author: 
+    name: Michael Tung
+    email: michael.tung@ufl.edu
 
-# Additional options
-author: Michael Tung
-email: michael.tung@ufl.edu
+description: >
+    A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)
+
+
+#theme: minima
+# remote_theme: mmistakes/minimal-mistakes-jekyll #testing
+remote_theme: jekyll/minima #update to v3 as the github default one is still using v2.5.1
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Social networks
-github_username: GodKnowss
-linkedin_username: michael-tung-4340a12b1
+#github_username: GodKnowss
+#linkedin_username: michael-tung-4340a12b1
 
 
 # Define the order of navigation links
@@ -19,3 +27,41 @@ header_pages:
   - research.md    # Research page, it seems the template only work with md for now, later maybe have skill and time change to html for greater freedom
   - coursework.md  # Coursework page
   - contact.md     # Contact page
+   
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: auto
+
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: true
+
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  date_format: "%b-%d-%Y"
+
+  # Social Media Links
+  # Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
+  #
+  # Entry keys:
+  # * title    Tooltip rendered on hovering over icon.
+  # * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  # * url      Full URL of social profile.
+  social_links:
+    - title: GitHub Account
+      icon: github
+      url: "https://github.com/GodKnowss"
+    - title: Linkedin Account
+      icon: linkedin
+      url: "https://www.linkedin.com/in/michael-tung-4340a12b1/"
+  #  - title: Jekyll at X (formerly Twitter)
+  #    icon: x-twitter
+  #    url: "https://x.com/jekyllrb"
