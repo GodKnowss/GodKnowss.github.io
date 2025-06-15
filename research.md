@@ -41,9 +41,8 @@ Below are some of the research/personal projects I have worked on, focusing on F
 - **Description**: Designed and implemented multiple projects related to circuits, signals, communication systems, and programming, like a small project on Red-Light Green Light. Led a team of 3 to complete multiple projects like Distant sensor and Red-Light Green Light.
 
 ## Publications
-- **Undergraduate Honor Thesis**  
-  Working on it now!  
-  [Read Paper](https://your-paper-link.com)
+- **Undergraduate Honor Thesis(RF-Based Drone Detection Using RFSoC and SDR: Analysis and Automation Foundations)**
+  [Read Paper](./assets/UF_Course_material/Honors_Thesis/Michael_Tung_honors_thesis.pdf)
 
 
 ## Future Directions

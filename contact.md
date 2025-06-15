@@ -11,7 +11,7 @@ I’m always open to new opportunities and collaborations. Feel free to reach ou
 You can email me directly at: [michael.tung@ufl.edu](mailto:michael.tung@ufl.edu)
 
 ## LinkedIn
-Connect with me on LinkedIn: [linkedin](https://www.linkedin.com/in/michael-tung-4340a12b1/)
+Connect with me on LinkedIn: [linkedin](https://www.linkedin.com/in/michaeltung95)
 
 ## GitHub
 Check out my projects on GitHub: [github.com/GodKnowss](https://github.com/GodKnowss)
