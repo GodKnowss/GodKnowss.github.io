@@ -24,10 +24,11 @@ title: Home
 
 # Welcome to My Website!
 ## About me
-Hi, I am Michael, an Electrical Engineering graduate from the University of Florida, where I graduated with the highest honors. 
-I am now pursuing graduate studies at Purdue University. My research interests include both theory and applications of information theory and its intersection with machine learning, communication systems, and networking. 
-Beyond these areas, stochastic processes, control systems, and optimization also draw my attention. I aim to connect these theoretical insights with real-world implementations through my digital design and embedded systems skills. 
-These interdisciplinary interests guide my graduate research and future career aspirations. <br>
+Hi, I am Michael, an Electrical Engineering graduate from the University of Florida, where I graduated with the highest honors. I am now pursuing graduate studies at Purdue University. <br>
+
+My research interests include both theory and applications of information theory and its intersection with machine learning, communication systems, and networking. 
+Beyond these areas, stochastic processes, control systems, and optimization also draw my attention. <br>
+I aim to connect these theoretical insights with real-world implementations through my digital design and embedded systems skills. These interdisciplinary interests guide my graduate research and future career aspirations. <br>
 
 I am currently conducting research under the guidance of [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
 Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) on digital design and embedded systems. <br>

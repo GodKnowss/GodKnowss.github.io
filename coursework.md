@@ -36,7 +36,7 @@ Below is a list of some of the key courses I have completed and currently enroll
 - **[Communication Systems](#communication-systems)**  
   Studied analog and digital communication systems, including modulation techniques, signal processing for communication, and noise analysis in communication channels.
 
-- **[Graph Theory in Communications and Networks](graph-theory-in-communications-and-networks)**  
+- **[Graph Theory in Communications and Networks](#graph-theory-in-communications-and-networks)**  
   Covered topics in graph theory and complex networks, emphasizing their applications to problems in communication and networking. Focused on algorithms, their implementation, and their use in optimizing routing, reliability, and traffic flow in network systems.
 
 ## Mathematics
