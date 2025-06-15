@@ -17,7 +17,7 @@ plugins:
 
 # Social networks
 #github_username: GodKnowss
-#linkedin_username: michael-tung-4340a12b1
+#linkedin_username: michaeltung1
 
 # Define the order of navigation links
 #header_pages:
@@ -27,14 +27,6 @@ plugins:
 #  - coursework.md  # Coursework page
 #  - contact.md     # Contact page
 
-
-minima:
-  nav_pages:
-    - index.md       # Home page
-    - cv.md          # CV page
-    - research.md    # Research page
-    - coursework.md  # Coursework page
-    - contact.md     # Contact page
     
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -50,6 +42,14 @@ minima:
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
+
+  # Customize navigation links and ordering
+  nav_pages:
+    - index.md       # Home page
+    - cv.md          # CV page
+    - research.md    # Research page
+    - coursework.md  # Coursework page
+    - contact.md     # Contact page
 
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -69,7 +69,7 @@ minima:
       url: "https://github.com/GodKnowss"
     - title: Linkedin Account
       icon: linkedin
-      url: "https://www.linkedin.com/in/michaeltung1/"
+      url: "https://www.linkedin.com/in/michaeltung95/"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
