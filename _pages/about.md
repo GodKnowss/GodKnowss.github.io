@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)" <!-- This will show up when you enter the website link-->
+title: "A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!-- The title shows up when you enter the website link, comment cant be put inside above, YAML type -->
+
 # Welcome to My Website!
 
 ## About me
-Hi, I am Michael, an Electrical Engineering graduate from the University of Florida, where I graduated with the highest honors. I am now pursuing graduate studies at Purdue University as a Graduate Research Fellow. <br>
+Hi, I'm Michael, a Graduate Research Fellow at Purdue University working toward my PhD in ECE. Prior to this, I earned my degree in Electrical Engineering from the University of Florida, where I graduated with the highest honors. <br>
 
 My research interests include both theory and applications of information theory and its intersection with machine learning, communication systems, and networking. 
 Beyond these areas, stochastic processes, control systems, and optimization also draw my attention. <br>
@@ -20,14 +22,14 @@ I aim to connect these theoretical insights with real-world implementations thro
 I am currently conducting research under the guidance of [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
 Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) on digital design and embedded systems. <br>
 
-You can find my [CV/Resume](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page. <br>
+You can find my [CV/Resume](/cv), learn more about my [research]((/cv/#research-interest)), and get in touch with me. <br>
 
 I am excited to continue my academic journey, particularly exploring the intersections of electrical engineering with emerging fields. 
 I look forward to collaborating with researchers and contributing to innovative projects in graduate school while seeking internship opportunities where I can apply my knowledge and gain hands-on experience. <br>
 
 ---
 ### Recent Work
-- Project 1: RFSoC and drone detection
+- Project 1: RFSoC and Drone detection
 - Project 2: Real-time FM spectrum analyzer
 
 I’m always open to new opportunities and collaborations. Feel free to explore and reach out!

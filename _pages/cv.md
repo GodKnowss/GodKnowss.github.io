@@ -27,9 +27,9 @@ My research will bridge theoretical foundations with practical implementations t
 
 Research experience
 ======
-* Aug 2025 - Present: Graduate Research Fellow <br>
+* June 2025 - Present: Graduate Research Fellow <br>
   _Purdue University, West Lafayette, Indiana_
-	* Conduct research on communication systems.
+	* Conduct research on communication systems, dection and estimation theory.
   
 * May 2024 – Present: Undergraduate Research Assistant <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
@@ -100,7 +100,7 @@ Skills
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
-* **Certifications:** NVIDIA Fundamentals of Deep Learning (Feb 2024), Lean Six Sigma White Belt
+* **Certifications:** NVIDIA Fundamentals of Deep Learning, Lean Six Sigma White Belt
 * **Documentation:** Technical Writing, Microsoft Office Suite
 * **Communication:** Professional Presentation, Cross-functional Collaboration
 
