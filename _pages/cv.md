@@ -18,8 +18,7 @@ Education
 * B.S. in Electrical Engineering with Summa Cum Laude, University of Florida, 2025
 
 
-Research Interest
-======
+# Research Interest
 To pursue a PhD in Electrical Engineering exploring information theory and its intersection in communication systems and machine learning, with an additional focus on stochastic processes, control systems, and optimization. <br>
 
 My research will bridge theoretical foundations with practical implementations through digital design and embedded systems, addressing challenges in scalable and secure real-time technologies.
@@ -58,7 +57,7 @@ Work & Project Experience
 	* Designed and implemented a high-performance 1-D convolution circuit on the Zedboard FPGA, leveraging parallelism to achieve ~15x speed-up compared to an ARM at 667MHz.
 	* Optimized throughput with pipelined and unrolled convolution loops and dual-clock DRAM DMA interface with FIFO and handshake for reliable data transfer and mitigate metastability.
 	* Implemented smart buffer (sliding window) design for efficient data reuse, reducing memory bandwidth requirements.
-	* [Report](/files/UF_materials/EEL5721_ReconfigurableComputing/final_project_report.pdf)
+	* [Report](/posts/2024/12/Reconfig-final-project/)
 
 * **Pong Game on FPGA**, _Apr 2024 – May 2024_ <br>
 	* Developed a Pong game using VHDL with custom logic for game mechanics and VGA output.
