@@ -30,6 +30,7 @@ author:
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
+  cv               : "/files/Resume/MichaelTung_Resume_2025_06_26.pdf" #this need to self define as the author profile html
 
   # Academic websites
   academia         : # URL
