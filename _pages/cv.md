@@ -26,18 +26,18 @@ My research will bridge theoretical foundations with practical implementations t
 
 Research experience
 ======
-* June 2025 - Present: Graduate Research Fellow <br>
+* June 2025 - Present: **Graduate Research Fellow** <br>
   _Purdue University, West Lafayette, Indiana_
 	* Conduct research on communication systems, dection and estimation theory.
   
-* May 2024 – Present: Undergraduate Research Assistant <br>
+* May 2024 – Present: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
   * Developing a real-time RF spectrum monitoring application using RFSoC and SDR, specifically designed for the detection and identification of unauthorized drone activities.
   * Collected and analyzed RF data across various scenarios, developing a mathematical model and simulation code to better understand and explain real-world behaviors.
   * Engaged actively in weekly lab meetings with Dr. John Shea, Dr. Tan Wong, and PhD. Students contribute insights, receive feedback, and foster project advancements.
   * Supervisor: [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/)
 
-* May 2023 – Sep 2024: REU Fellowship (Paid research assistant) <br>
+* May 2023 – Sep 2024: **REU Fellowship (Paid research assistant)** <br>
   _Smart Systems Lab (SSL), University of Florida, Gainesville, FL_ 
   * Developed and implemented a 3D object tracking camera system using Python and OpenCV within the lab's testing space.
   * Enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration.
