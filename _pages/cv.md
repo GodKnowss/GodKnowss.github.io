@@ -17,34 +17,36 @@ Education
 <!--* M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in Electrical Engineering with Summa Cum Laude, University of Florida, 2025
 
+
 Research Interest
 ======
-To pursue a PhD in Electrical Engineering exploring information theory and its intersection in communication systems and machine learning, with an additional focus on stochastic processes, control systems, and optimization. 
+To pursue a PhD in Electrical Engineering exploring information theory and its intersection in communication systems and machine learning, with an additional focus on stochastic processes, control systems, and optimization. <br>
+
 My research will bridge theoretical foundations with practical implementations through digital design and embedded systems, addressing challenges in scalable and secure real-time technologies.
+
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* Aug 2025 - Present: Graduate Research Fellow <br>
+  _Purdue University, West Lafayette, Indiana_
+	* Conduct research on communication systems.
+  
 * May 2024 – Present: Undergraduate Research Assistant <br>
-  _Wireless Information Networking Group (WING)_, **_University of Florida_**, Gainesville, FL
+  _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
   * Developing a real-time RF spectrum monitoring application using RFSoC and SDR, specifically designed for the detection and identification of unauthorized drone activities.
   * Collected and analyzed RF data across various scenarios, developing a mathematical model and simulation code to better understand and explain real-world behaviors.
   * Engaged actively in weekly lab meetings with Dr. John Shea, Dr. Tan Wong, and PhD. Students contribute insights, receive feedback, and foster project advancements.
   * Supervisor: [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/)
 
 * May 2023 – Sep 2024: REU Fellowship (Paid research assistant) <br>
-  _Smart Systems Lab (SSL)_, **_University of Florida_**, Gainesville, FL 
+  _Smart Systems Lab (SSL), University of Florida, Gainesville, FL_ 
   * Developed and implemented a 3D object tracking camera system using Python and OpenCV within the lab's testing space.
   * Enhanced FFmpeg-based video streaming performance by 30% through CUDA hardware acceleration.
   * Tested FPGA and microprocessor integration on drones for improved system control and data processing.
   * Supervisor: [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/)
 
   
-WORK & PROJECT EXPERIENCE
+Work & Project Experience
 ======
 * **Capstone/Co-op Project Member IPPD**, _Aug 2024 – May 2025_ <br>
   **Northrop Grumman**, Melbourne, FL
@@ -58,8 +60,15 @@ WORK & PROJECT EXPERIENCE
 	* Implemented smart buffer (sliding window) design for efficient data reuse, reducing memory bandwidth requirements.
 	* [Report](/files/UF_materials/EEL5721_ReconfigurableComputing/final_project_report.pdf)
 
+* **Pong Game on FPGA**, _Apr 2024 – May 2024_ <br>
+	* Developed a Pong game using VHDL with custom logic for game mechanics and VGA output.
+	* Implemented FSM for game state control and optimized real-time performance.
 
-HONORS & AWARDS
+* **Circuit Analysis Tool**, _Apr 2023 – May 2023_ <br>
+	* Developed a C++ tool to calculate currents, voltages, and drops from netlist data.
+	* Improved efficiency by 20% with dynamic programming for complex circuits.
+
+Honors & Awards
 ======
 * **Ross Fellowship**, **_Purdue University_**, 2025
 	* A competitive, fully funded award for the recruitment of outstanding PhD candidates.
@@ -77,12 +86,23 @@ HONORS & AWARDS
   
 Skills
 ======
-* Skill 1
-* Digital Design
-  * VHDL, SystemVerliog
-  * UVM
-  * Vitis HLS
-* Skill 3
+## Programming Languages
+* **Systems Programming:** C/C++, Assembly
+* **Software Development:** Java, Python
+* **Machine Learning:** PyTorch, TensorFlow
+* **Technical Computing:** MATLAB
+* **Version Control:** Git
+
+## Digital Design & Hardware
+* **HDL Languages:** VHDL, SystemVerilog
+* **Verification:** UVM (Universal Verification Methodology)
+* **High-Level Synthesis:** Vitis HLS
+* **Circuit Design:** LTspice, Altium Designer
+
+## Professional & Technical Skills
+* **Certifications:** NVIDIA Fundamentals of Deep Learning (Feb 2024), Lean Six Sigma White Belt
+* **Documentation:** Technical Writing, Microsoft Office Suite
+* **Communication:** Professional Presentation, Cross-functional Collaboration
 
 Publications
 ======

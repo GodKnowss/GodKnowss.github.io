@@ -1,12 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)" <!-- This will show up when you enter the website link-->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# Welcome to My Website!
+
+## About me
+Hi, I am Michael, an Electrical Engineering graduate from the University of Florida, where I graduated with the highest honors. I am now pursuing graduate studies at Purdue University as a Graduate Research Fellow. <br>
+
+My research interests include both theory and applications of information theory and its intersection with machine learning, communication systems, and networking. 
+Beyond these areas, stochastic processes, control systems, and optimization also draw my attention. <br>
+
+I aim to connect these theoretical insights with real-world implementations through my digital design and embedded systems skills. These interdisciplinary interests guide my graduate research and future career aspirations. <br>
+
+I am currently conducting research under the guidance of [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
+Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) on digital design and embedded systems. <br>
+
+You can find my [CV/Resume](cv.md), learn more about my [research](research.md), and get in touch with me on my [contact](contact.md) page. <br>
+
+I am excited to continue my academic journey, particularly exploring the intersections of electrical engineering with emerging fields. 
+I look forward to collaborating with researchers and contributing to innovative projects in graduate school while seeking internship opportunities where I can apply my knowledge and gain hands-on experience. <br>
+
+---
+### Recent Work
+- Project 1: RFSoC and drone detection
+- Project 2: Real-time FM spectrum analyzer
+
+I’m always open to new opportunities and collaborations. Feel free to explore and reach out!
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +80,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
