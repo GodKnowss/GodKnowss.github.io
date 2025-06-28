@@ -71,21 +71,21 @@ Below is a list of some of the key courses I have completed and currently enroll
 ## Extra content
 
 ### Communication Systems
-[Useful Formula sheet](./assets/UF_Course_material/EEL4514C/Comm_Notes_Sheet.pdf)
+[Useful Formula sheet](/posts/2024/04/Comm-final-exam/)
 
 ### Digital Signal Processing
-[Proofs #1](./assets/UF_Course_material/EEE5502/Change_of_variable_and_proof_of_DTFT_time_reversal_property.pdf)
+[Proofs #1](/posts/2023/10/DSP-notes-1/)
 
 ### Reconfigurable Computing
-[1D Time-domain Convolution FPGA Report](./assets/UF_Course_material/EEL5721_ReconfigurableComputing/final_project_report.pdf)
+[1D Time-domain Convolution FPGA Report](/posts/2024/12/Reconfig-final-project/)
 
 ### Fundamentals of Machine Learning
-[Final Project Report](./assets/UF_Course_material/EEE4773/EEE4773_Final_Report.pdf) <br>
-[Useful Formula sheet 1](./assets/UF_Course_material/EEE4773/EEE4773_Midterm.pdf) <br>
-[Useful Formula sheet 2](./assets/UF_Course_material/EEE4773/EEE_4773_Final.pdf)
+[Final Project Report](/posts/2024/05/FML-final-exam/) <br>
+[Useful Formula sheet 1](/posts/2024/05/FML-final-exam/) <br>
+[Useful Formula sheet 2](/posts/2024/05/FML-final-exam/)
 
 ### Graph Theory in Communications and Networks
-[Final Report](./assets/UF_Course_material/Graph_Theory/Graph_theory_Final_project_IEEE.pdf)
+[Final Report](/posts/2025/04/Graph-theory-final-report/)
 
 Feel free to explore my [Research](/cv/#research-interest) or [Contact](contact.md) pages for more information.
 

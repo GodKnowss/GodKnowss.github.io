@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Michael Tung"
+title                    : "MTsEntropy" #this is the site title, lets use information theory for now
 title_separator          : "-"
 name                     : &name "Michael" #at the bottom of the website
 description              : &description "This is my second website hosted on Git Hub. Still learning how to use it." #this will pop up when you enter the website link
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Michael"
+  name             : "Michael Tung" # at the author bio
   pronouns         : # example: "she/her"  
   bio              : "This is a personal website dedicated to showcasing my academic achievements, research projects, and professional journey :)"
   location         : "West Lafayette, Indiana"

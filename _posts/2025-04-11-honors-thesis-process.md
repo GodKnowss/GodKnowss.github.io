@@ -1,7 +1,7 @@
 ---
 title: 'My Journey Through the Undergraduate Honors Thesis Defense Process'
 date: 2025-04-11
-permalink: /posts/2025/04/honors-thesis/
+permalink: /posts/2025/04/honors-thesis-process/
 tags:
   - UF
 ---
@@ -12,7 +12,7 @@ and [Dr. Christopher Petersen](https://mae.ufl.edu/people/name/christopher-peter
 I want to share the complete process to help fellow students navigate this rewarding but challenging journey. <br>
 
 The first step in pursuing an honors thesis is finding a research advisor within your department. This process should begin much earlier than most students realize - ideally during your junior year or earlier. 
-You'll need to register for EGN4912 (Undergraduate Research Credits) and work with your advisor for at least one or two semesters before proposing your thesis. 
+You'll need to register for **EGN4912 (Undergraduate Research Credits)** and work with your advisor for at least one or two semesters before proposing your thesis. 
 During this time, you should research faculty interests, attend office hours to discuss potential projects and look for professors whose work aligns with your academic interests. 
 The key is developing a substantial project that can support a complete thesis while also ensuring your chosen advisor has the time and willingness to dedicate to your project. <br>
 
