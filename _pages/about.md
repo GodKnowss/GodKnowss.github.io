@@ -16,7 +16,7 @@ redirect_from:
 Hi, I'm Michael, a Graduate Research Fellow at [Purdue University](https://www.purdue.edu/) 🚂 working toward my PhD in [ECE](https://engineering.purdue.edu/ECE/Academics/Graduates). 
 Prior to this, I earned my degree in [Electrical Engineering](https://www.ece.ufl.edu/) from the [University of Florida](https://www.ufl.edu/) 🐊, where I graduated with the highest honors. <br>
 
-My research interests include both theory and applications of **information theory** 📊 and its intersection with **machine learning**, **communication systems** 📡, and **networking** 🌐. 
+My research interests include both theory and applications of **information theory** 📊 and its intersection with **machine learning** 🤖, **communication systems** 📡, and **networking** 🌐. 
 Beyond these areas, **stochastic processes** 🎲, **control systems** ⚙️, and **optimization** 📈 also draw my attention. <br>
 
 I aim to connect these theoretical insights with real-world implementations through my **digital design** 💻 and **embedded systems** 🔧 skills. These interdisciplinary interests guide my graduate research and future career aspirations. <br>

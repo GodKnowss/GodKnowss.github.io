@@ -6,6 +6,8 @@ tags:
   - UF
 ---
 
-Here is the [syllabus](/files/UF_materials/Courses/EEL6935_CSRL_2025.pdf) for the reinforcement learning course taught by Dr. Sean Meyn.
+The official course website hasn't yet posted the syllabus for Dr. Sean Meyn's Reinforcement Learning class. <br>
+
+I'm sharing the [course syllabus](/files/UF_materials/Courses/EEL6935_CSRL_2025.pdf) here for students who may find it useful for planning and preparation.
 
 ------

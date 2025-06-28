@@ -94,7 +94,11 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  utterances:
+    theme: "preferred-color-scheme"
+    issue_term: "pathname"
+    repo: "GodKnowss/GodKnowss.github.io" #use github account, then comments show up as Github Issue
   disqus:
     shortname            :
   discourse:

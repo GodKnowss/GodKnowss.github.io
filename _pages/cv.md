@@ -22,10 +22,10 @@ Education
 To pursue a PhD in Electrical Engineering exploring **information theory** and its intersection in **communication systems** and **machine learning**, 
 with an additional focus on **stochastic processes**, **control systems**, and **optimization**. <br>
 
-My research will bridge theoretical foundations with practical implementations through digital design and embedded systems, addressing challenges in scalable and secure real-time technologies.
+My research will bridge theoretical foundations with practical implementations through **digital design** and **embedded systems**, addressing challenges in scalable and secure real-time technologies.
 
 
-Research experience
+Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
   _Purdue University, West Lafayette, Indiana_
