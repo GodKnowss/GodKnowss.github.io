@@ -13,13 +13,13 @@ redirect_from:
 <!-- # Welcome to My Website! -->
 
 ## About me
-Hi, I'm Michael, a Graduate Research Fellow at [Purdue University](https://www.purdue.edu/) working toward my PhD in [ECE](https://engineering.purdue.edu/ECE/Academics/Graduates). 
-Prior to this, I earned my degree in [Electrical Engineering](https://www.ece.ufl.edu/) from the [University of Florida](https://www.ufl.edu/), where I graduated with the highest honors. <br>
+Hi, I'm Michael, a Graduate Research Fellow at [Purdue University](https://www.purdue.edu/) 🚂 working toward my PhD in [ECE](https://engineering.purdue.edu/ECE/Academics/Graduates). 
+Prior to this, I earned my degree in [Electrical Engineering](https://www.ece.ufl.edu/) from the [University of Florida](https://www.ufl.edu/) 🐊, where I graduated with the highest honors. <br>
 
-My research interests include both theory and applications of information theory and its intersection with machine learning, communication systems, and networking. 
-Beyond these areas, stochastic processes, control systems, and optimization also draw my attention. <br>
+My research interests include both theory and applications of **information theory** 📊 and its intersection with **machine learning**, **communication systems** 📡, and **networking** 🌐. 
+Beyond these areas, **stochastic processes** 🎲, **control systems** ⚙️, and **optimization** 📈 also draw my attention. <br>
 
-I aim to connect these theoretical insights with real-world implementations through my digital design and embedded systems skills. These interdisciplinary interests guide my graduate research and future career aspirations. <br>
+I aim to connect these theoretical insights with real-world implementations through my **digital design** 💻 and **embedded systems** 🔧 skills. These interdisciplinary interests guide my graduate research and future career aspirations. <br>
 
 I am currently conducting research under the guidance of [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) at the University of Florida, focusing on signal processing, wireless communication systems, and real-time data processing. 
 Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/) on digital design and embedded systems. <br>
