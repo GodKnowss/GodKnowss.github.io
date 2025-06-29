@@ -4,6 +4,8 @@ date: 2025-04-11
 permalink: /posts/2025/04/honors-thesis-process/
 tags:
   - UF
+  - Personal
+  - Opinion
 ---
 
 Graduating with the highest honors can strengthen your graduate school applications and demonstrate your research capabilities, but the process can feel overwhelming without proper guidance. 

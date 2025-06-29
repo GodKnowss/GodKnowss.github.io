@@ -3,13 +3,12 @@ title: 'Why "MTsEntropy"? The Story Behind My Website Name'
 date: 2025-06-28
 permalink: /posts/2025/06/welcome-to-mtsentropy/
 tags:
-  - UF
-  - PhD
+  - Personal
 ---
 
 To be complete! <br>
 
-Welcome to my corner of the internet! If you're wondering what "MTsEntropy" means, let me explain the story behind this admittedly nerdy website name.
+Welcome to my corner of the internet! If you're wondering what "MTsEntropy" means, let me explain the story behind this website name.
 
 ## Decoding the Name
 In information theory, **entropy** measures the information content of a signal - how much useful, valuable information something contains. MTsEntropy applies this principle to academic knowledge sharing: 

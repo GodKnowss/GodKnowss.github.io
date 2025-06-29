@@ -3,15 +3,19 @@ title: 'Why Graduate School is Essential for Signal Processing and Communication
 date: 2025-06-28
 permalink: /posts/2025/06/Why-Grad-School/
 tags:
-  - UF
   - PhD
+  - Opinion
+  - Personal
 ---
 
 To be complete! <br>
 
-The landscape has changed dramatically over the past decade, and I believe current undergraduates must understand why graduate school is no longer just an option - it's becoming essential for meaningful career advancement in our field. <br>
-As a graduate student at Purdue University, I've witnessed a fundamental shift in our field. The bachelor's degree that once opened doors to innovative engineering work now primarily leads to implementation roles. 
-Here's why graduate education has become essential for meaningful careers in signal processing, communications, and controls.
+The landscape has shifted significantly over the past decade, and current undergraduates should understand how graduate education increasingly affects career trajectories in our field.
+
+As a graduate student at [University], I've observed a notable evolution in engineering careers. While a bachelor's degree still opens many doors, the **most innovative and challenging work** that 
+**shapes technology rather than implements it** increasingly goes to those with advanced degrees. <br>
+
+This trend is particularly true in **signal processing, communications, and controls**, where the mathematical complexity of modern problems often requires the deeper theoretical foundation that graduate study provides.
 
 To be complete! Working on it <br> 
 
