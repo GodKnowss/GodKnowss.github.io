@@ -11,4 +11,6 @@ and [Dr. Christopher Petersen](https://mae.ufl.edu/people/name/christopher-peter
 
 I think Chris Malachowsky is also there who watched my defense briefly. 
 
+Here is the link to my [paper](/publication/2025-04-16-honors-thesis).
+
 ------

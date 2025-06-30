@@ -13,10 +13,14 @@ Having successfully completed my undergraduate honors thesis defense with commit
 and [Dr. Christopher Petersen](https://mae.ufl.edu/people/name/christopher-petersen/), 
 I want to share the complete process to help fellow students navigate this rewarding but challenging journey. <br>
 
+## Finding Advisor
+
 The first step in pursuing an honors thesis is finding a research advisor within your department. This process should begin much earlier than most students realize - ideally during your junior year or earlier. 
 You'll need to register for **EGN4912 (Undergraduate Research Credits)** and work with your advisor for at least one or two semesters before proposing your thesis. 
 During this time, you should research faculty interests, attend office hours to discuss potential projects and look for professors whose work aligns with your academic interests. 
 The key is developing a substantial project that can support a complete thesis while also ensuring your chosen advisor has the time and willingness to dedicate to your project. <br>
+
+## Forming a Committee
 
 Once you've established a working relationship with your advisor and have a solid research foundation, the next crucial step is forming your thesis committee. 
 This aspect of the process requires more strategic planning than most students anticipate. 
@@ -30,6 +34,8 @@ I recommend leveraging your advisor's network, as they often have interdisciplin
 such as Mathematics, Physics, or Computer Science. The most important advice I can offer is to secure a committee agreement and schedule your defense date as soon as possible, 
 ideally 4-6 months before graduation, to avoid last-minute complications. <br> 
 
+## Writing Thesis
+
 Writing the thesis itself presents its own unique challenges and rewards. It's essential to set realistic expectations for undergraduate research. 
 The goal is to demonstrate your ability to conduct research and communicate technical concepts effectively rather than necessarily making groundbreaking discoveries. 
 The scope and novelty of your work will largely depend on your field. In emerging areas, you might be able to contribute something genuinely novel during your undergraduate years. 
@@ -40,14 +46,20 @@ even before your research is completely finished, and maintain regular meetings 
 Your thesis should follow a traditional academic structure with an abstract, introduction, literature review, methodology, results, conclusion, 
 and comprehensive references. Remember that this document represents months or years of your work, so take the time to make it thorough and well-written. <br> 
 
+## Obtaining Paperwork
+
 Perhaps the most frustrating aspect of the entire process is navigating the paperwork and administrative requirements. This is where many students encounter unexpected delays and stress. 
 My strongest recommendation is to contact Ms. Nicole Young or the current honors coordinator immediately to obtain detailed information about the required forms and deadlines. 
 One crucial tip that saved me significant headaches was to request **DocuSign** versions of all forms rather than traditional PDFs. 
 Collecting physical signatures from busy professors can be incredibly time-consuming and stressful, especially as graduation deadlines approach. <br>
 
+## Defense
+
 The defense presentation itself, while nerve-wracking, is typically the most rewarding part of the entire process. You'll present your work for 20-30 minutes, followed by a question and answer session with your committee members. 
 The committee will then have a private discussion while you step out. Afterward, they'll notify you of the results, and 99% of the time, they will, of course, approve your work. 
 The key to success is thorough preparation. Practice your presentation multiple times, prepare for questions about your methodology and results, and remember that you are now the expert on your specific research topic. <br>
+
+## Conclusion
 
 Reflecting on my experience, the honors thesis process was challenging but incredibly valuable for my academic and professional development. 
 The skills I developed - research methodology, technical writing, project management, and oral presentation - have served me well in graduate school and continue to benefit my academic career. 

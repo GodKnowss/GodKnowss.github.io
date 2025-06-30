@@ -9,30 +9,34 @@ tags:
 
 To be complete! <br>
 
-Looking back on my time in UF's ECE program, I wish someone had told me earlier about the incredible career opportunities that open up when you dive deep into the mathematical side of electrical engineering. Signal processing, communications, and control systems represent some of the most intellectually rewarding paths you can take, and they lead to careers that most students don't even know exist.
+Looking back on my time in UF's ECE program, I wish someone had told me earlier about the incredible career opportunities that open up when you dive deep into the mathematical side of electrical engineering. 
+Signal processing, communications, and control systems represent some of the most intellectually rewarding paths you can take, and they lead to careers that most students don't even know exist. <br>
+
+Personally, I can attest to the value of this education, having achieved A's and top scores in all those classes. 
 
 ## Why These Tracks Matter
 
-Let me be honest - these aren't easy paths. You'll need strong mathematical skills, and the coursework can be demanding. However, what I've discovered is that this mathematical foundation gives you remarkable flexibility in an increasingly complex job market.
-While traditional engineering roles remain plentiful and well-compensated, a strong mathematical background opens doors to diverse fields that many engineers can't access: quantitative finance, machine learning research, cryptography, data science, and emerging tech roles that didn't exist a decade ago. Defense contractors and research labs actively seek people who can bridge theoretical mathematics with practical applications.
+Let me be honest - these aren't easy or straightforward paths. You will need strong mathematical skills, and the coursework can be demanding. However, what I've discovered is that this mathematical foundation gives you remarkable flexibility in an increasingly complex job market. <br>
+
+While traditional engineering roles remain plentiful and well-compensated, a strong mathematical background opens doors to many diverse fields that many engineers can't access: quantitative finance, machine learning research, cryptography, data science, and emerging tech roles that didn't exist a decade ago. Defense contractors and industry research labs actively seek people who can bridge theoretical mathematics with practical applications.
 
 ## Signal Processing: Your Gateway to Advanced Mathematics
-Everything begins with **EEL 3135 - Introduction to Signals and Systems**, which I consider the most important course in the entire ECE curriculum. I strongly recommend taking it in the spring semester with Dr. Harley, 
-whose teaching quality is exceptional and whose course materials are among the best in our department. Dr. Wong also teaches an excellent version during the summer. 
-While the course can seem confusing initially, it's actually quite manageable if you stay current with the material and attend lectures regularly. <br>
+Everything begins with **EEL 3135 - Introduction to Signals and Systems**, which I consider the most important course in the entire ECE curriculum. I strongly recommend taking it in the spring semester with [Dr. Joel Harley](https://www.ece.ufl.edu/people/faculty/joel-b-harley/), 
+whose teaching quality is exceptional and whose course materials are among the best in our department. [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/) also teaches an excellent version during the summer. 
+While the course can seem confusing initially, it's quite manageable if you stay current with the material and attend lectures regularly. <br>
 
 For students interested in the signal processing track, your next course should be **EEL 4750/5502 - Foundations of Digital Signal Processing**. 
 This class builds directly on Signals and Systems, teaching you how to apply frequency domain concepts to discrete-time systems. 
 The coursework involves significant MATLAB programming and practical implementation of filtering algorithms, making it both theoretically rich and practically applicable.
 
-## Communications Systems: Theory Meets Practice
+## Communications Systems: Information Theory and Physical Layer
 The communications track intersects beautifully with signal processing through **EEL 4514C - Communication Systems**. 
-Although Dr. John Shea no longer teaches this course, it remains one of the most valuable classes in the department. The course covers modulation schemes, channel coding, 
+Although [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) no longer teaches this course, it remains one of the most valuable and interesting classes in the department. The course covers modulation schemes, channel coding, 
 and information theory applications that are directly relevant to modern wireless systems and data transmission. 
 Understanding these concepts opens doors to careers in telecommunications, satellite communications, and emerging 5G/6G technologies. <br>
 
 After completing communication systems, I highly recommend **EEE 5544 - Stochastic Processes 1**. This course is essentially advanced probability and random variables for engineers, 
-providing the mathematical foundation for understanding noise, channel capacity, and statistical signal processing. Despite its intimidating name, 
+providing the mathematical foundation for understanding noise, random processes, and some statistical signal processing. Despite its intimidating name, 
 the course is more interesting and manageable than many students expect, especially if you have a solid background from your probability and statistics courses.
 
 ## Hardware Implementation: Bridging Theory and Practice
@@ -47,7 +51,13 @@ which focus on modern applications and implementation challenges. These courses 
 
 ## Control Systems: The Mathematical Heart of Engineering?
 
-The control systems track requires perhaps the strongest mathematical background of any EE specialization, but it also offers some of the most diverse career opportunities. I've heard mixed reviews about the introductory control course, with many students finding it less engaging than expected. However, if you're interested in this area, consider jumping directly to more advanced courses like **Power Grid Analysis** or Advanced Control Systems, which provide more practical applications and mathematical depth.
+The control systems track also requires a solid mathematical background, similar to the level of signal processing and communication systems, as they share a similar mathematical foundation, 
+especially since their foundations are built on modern mathematics. However, it also offers some of the most diverse career opportunities. 
+It is widely used in various fields, including mechanical engineering, robotics, and computer science. <br>
+
+I have heard mixed reviews about the **introductory control course**, with many students finding it less engaging than expected. 
+However, if you're interested in this area, consider jumping directly to more advanced courses like **Power Grid Analysis** or **Reinforcement Learning** by [Dr. Sean Meyn](https://meyn.ece.ufl.edu/), 
+which provide more practical applications and mathematical rigor and depth.
 
 ## Career Opportunities You Didn't Know Existed
 
@@ -67,6 +77,7 @@ Engineers with strong mathematical backgrounds can pivot between industries and 
 
 ## Practical Advice for Success?
 
-These tracks aren't for everyone, but for students with strong mathematical interests and the willingness to work hard, they offer some of the most rewarding and lucrative career paths in engineering. The key is starting early, staying current with coursework, and maintaining curiosity about how mathematical concepts apply to real-world problems.
+These tracks aren't for everyone, but for students with strong mathematical interests and the willingness to work hard, they offer some of the most rewarding and lucrative career paths in engineering. 
+The key is to start early, stay on top of coursework, and maintain curiosity about how mathematical concepts apply to real-world problems.
 
 ------

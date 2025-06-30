@@ -9,7 +9,7 @@ tags:
 I migrated this page from my old websites. I will slowly update and fix it. 
 
 # Relevant Coursework
-Below is a list of some of the key courses I have completed and currently enrolled at UF. 
+Below is a list of some of the key courses I have completed at UF. 
 
 ## Computer Science
 
