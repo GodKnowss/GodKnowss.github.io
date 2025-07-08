@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_06_26.pdf).
+You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_07_07.pdf).
 
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, Purdue University, 2029 (expected)
 <!--* M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Electrical Engineering with Summa Cum Laude, University of Florida, 2025
+* B.S. in Electrical Engineering with Summa Cum Laude, University of Florida, 2025 (GPA: 4.00/4.00)
 
 
 # Research Interest
@@ -29,7 +29,7 @@ Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
   _Purdue University, West Lafayette, Indiana_
-	* Conduct research on communication systems, dection and estimation theory.
+	* Conduct research on communication systems, detection and estimation theory.
   
 * May 2024 – Present: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
@@ -83,7 +83,7 @@ Honors & Awards
 	* A merit-based scholarship awarded for outstanding academic achievement in ECE.
 
 * **Honor Roll and Dean's List**, **_University of Florida_**, 2023 – 2025
-  
+
 Skills
 ======
 ## Programming Languages
@@ -97,11 +97,12 @@ Skills
 * **HDL Languages:** VHDL, SystemVerilog
 * **Verification:** UVM (Universal Verification Methodology)
 * **High-Level Synthesis:** Vitis HLS
+* **Software Defined Radio:** GNU Radio
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
 * **Certifications:** NVIDIA Fundamentals of Deep Learning, Lean Six Sigma White Belt
-* **Documentation:** Technical Writing, Microsoft Office Suite
+* **Documentation:** Technical Writing, Microsoft Office
 * **Communication:** Professional Presentation, Cross-functional Collaboration
 
 Publications

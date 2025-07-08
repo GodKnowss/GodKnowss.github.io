@@ -9,16 +9,21 @@ tags:
 
 To be complete! <br>
 
-Looking back on my time in UF's ECE program, I wish someone had told me earlier about the incredible career opportunities that open up when you dive deep into the mathematical side of electrical engineering. 
-Signal processing, communications, and control systems represent some of the most intellectually rewarding paths you can take, and they lead to careers that most students don't even know exist. <br>
+Looking back on my time in UF's ECE program, I wish someone had told me earlier about the incredible career opportunities that open up when you explore the **mathematical side of our field**. <br>
+
+While it is easy to focus on the tangible world of **circuits, hardware, and semiconductors**, the field's true **hidden gem** is its **mathematical** core, the world of **signal processing, communications, and control systems**. 
+They lead to fascinating careers that most students don't even know exist, all built on the elegant logic that underpins modern technology. <br>
 
 Personally, I can attest to the value of this education, having achieved A's and top scores in all those classes. 
 
-## Why These Tracks Matter
+## Why These Tracks Matter?
 
-Let me be honest - these aren't easy or straightforward paths. You will need strong mathematical skills, and the coursework can be demanding. However, what I've discovered is that this mathematical foundation gives you remarkable flexibility in an increasingly complex job market. <br>
+Let me be honest - these aren't easy or straightforward paths. You will need strong mathematical skills, and the coursework can be demanding. 
+However, what I've discovered is that this mathematical foundation gives you remarkable flexibility in an increasingly complex job market. <br>
 
-While traditional engineering roles remain plentiful and well-compensated, a strong mathematical background opens doors to many diverse fields that many engineers can't access: quantitative finance, machine learning research, cryptography, data science, and emerging tech roles that didn't exist a decade ago. Defense contractors and industry research labs actively seek people who can bridge theoretical mathematics with practical applications.
+While traditional engineering roles remain plentiful and well-compensated, a strong mathematical background opens doors to many diverse fields that many engineers can't access: 
+**quantitative finance, machine learning research, cryptography, data science, and emerging tech roles** that **didn't exist** a decade ago. 
+**Defense contractor**s and **industry research labs** actively seek people who can bridge theoretical mathematics with practical applications.
 
 ## Signal Processing: Your Gateway to Advanced Mathematics
 Everything begins with **EEL 3135 - Introduction to Signals and Systems**, which I consider the most important course in the entire ECE curriculum. I strongly recommend taking it in the spring semester with [Dr. Joel Harley](https://www.ece.ufl.edu/people/faculty/joel-b-harley/), 
@@ -59,17 +64,17 @@ I have heard mixed reviews about the **introductory control course**, with many 
 However, if you're interested in this area, consider jumping directly to more advanced courses like **Power Grid Analysis** or **Reinforcement Learning** by [Dr. Sean Meyn](https://meyn.ece.ufl.edu/), 
 which provide more practical applications and mathematical rigor and depth.
 
-## Career Opportunities You Didn't Know Existed
+## Career Opportunities You Didn't Know Existed!
 
 The mathematical rigor of these tracks opens doors to unexpected career paths. **Quantitative finance** firms actively recruit **signal processing** engineers 
-for their algorithmic thinking and comfort with complex mathematics. Major tech companies like **Google, Apple, and Microsoft** have 
+for their **algorithmic thinking** and comfort with **complex mathematics**. Major tech companies like **Google, Apple, and Microsoft** have 
 research divisions tackling problems that require advanced mathematical techniques. <br>
 
 Defense contractors seek engineers who can design **radar systems, satellite communications, and signal intelligence systems** - direct applications of the theory you'll learn. <br>
 
-These mathematically intensive programs also provide exceptional graduate school preparation. The mathematical maturity you develop makes you competitive for **top PhD programs**, 
+These mathematically intensive programs also provide exceptional **graduate school** preparation. The mathematical maturity you develop makes you competitive for **top PhD programs**, 
 where theoretical depth combined with implementation skills is highly valued. 
-Many of today's most exciting research areas - machine learning, reinforcement learning, autonomous systems - require exactly this kind of mathematical foundation.
+Many of today's most exciting research areas - **machine learning, reinforcement learning, information theory** - require exactly this kind of mathematical foundation.
 
 Academic research offers intellectually challenging careers, though compensation varies significantly by field and institution. 
 The key advantage isn't just the career options themselves but the analytical flexibility this training provides. 
@@ -77,7 +82,7 @@ Engineers with strong mathematical backgrounds can pivot between industries and 
 
 ## Practical Advice for Success?
 
-These tracks aren't for everyone, but for students with strong mathematical interests and the willingness to work hard, they offer some of the most rewarding and lucrative career paths in engineering. 
+These tracks aren't for everyone, but for students with strong **mathematical interests** and the willingness to work hard, they offer some of the **most rewarding and lucrative** career paths in engineering. 
 The key is to start early, stay on top of coursework, and maintain curiosity about how mathematical concepts apply to real-world problems.
 
 ------

@@ -26,7 +26,7 @@ Previously, I worked with [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/
 
 You can find my [CV/Resume](/cv), learn more about my [research](/cv/#research-interest), and get in touch with me on my [contact](/posts/2100/01/Contact/) page. <br>
 
-I am excited to continue my academic journey, particularly exploring the intersections of electrical engineering with emerging fields. 
+I am excited to continue my academic journey, particularly exploring the intersections of electrical engineering and mathematics with emerging fields. 
 I look forward to collaborating with researchers and contributing to innovative projects in graduate school while seeking internship opportunities where I can apply my knowledge and gain hands-on experience. <br>
 
 ---

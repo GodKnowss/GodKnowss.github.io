@@ -3,7 +3,7 @@ title: "RF-Based Drone Detection Using RFSoC and SDR: Analysis and Automation Fo
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-16-honors-thesis
-excerpt: 'This is my Undergraduate Honors Thesis'
+excerpt: 'UF ECE Undergraduate Honors Thesis'
 date: 2025-04-16
 venue: 'Undergraduate Honors Theses collection'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
