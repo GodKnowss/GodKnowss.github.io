@@ -87,6 +87,6 @@ Below is a list of some of the key courses I have completed at UF.
 ### Graph Theory in Communications and Networks
 [Final Report](/posts/2025/04/Graph-theory-final-report/)
 
-Feel free to explore my [Research](/cv/#research-interest) or [Contact](/posts/2100/01/Contact/) pages for more information.
+Feel free to explore my [Research](/cv/#research-interest) or [Contact](/posts/2100/09/Contact/) pages for more information.
 
 ------

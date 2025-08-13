@@ -10,6 +10,6 @@ tags:
 
 To be complete! <br>
 
-The landscape has changed dramatically over the past decade
+The landscape has changed dramatically over the past decade. And the master's degree has become less valuable and less of a depth degree. 
 
 ------

@@ -40,7 +40,7 @@ Although [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) no
 and information theory applications that are directly relevant to modern wireless systems and data transmission. 
 Understanding these concepts opens doors to careers in telecommunications, satellite communications, and emerging 5G/6G technologies. <br>
 
-After completing communication systems, I highly recommend **EEE 5544 - Stochastic Processes 1**. This course is essentially advanced probability and random variables for engineers, 
+After completing communication systems, I highly recommend **EEE 5544 - Stochastic Processes 1**. This course is essentially more advanced probability and random variables for engineers, 
 providing the mathematical foundation for understanding noise, random processes, and some statistical signal processing. Despite its intimidating name, 
 the course is more interesting and manageable than many students expect, especially if you have a solid background from your probability and statistics courses.
 
