@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_08_13.pdf). <!--* everytime change, also change the config cv too -->
+You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_08_15.pdf). <!--* everytime change, also change the config cv too -->
 
 Education
 ======
@@ -53,13 +53,13 @@ Work & Project Experience
 ======
 * **Capstone Design Project Engineer, Northrop Grumman Sponsored**, _Aug 2024 – May 2025_ <br>
   **Northrop Grumman**, Melbourne, FL
-	* Awarded "Best Team" in the University's IPPD program, placing first among all teams for overall project excellence, execution, and presentation.
+	* Awarded **"Best Team"** in the University's **IPPD** program, placing first among all teams for overall project excellence, execution, and presentation.
 	* Engineered an end-to-end automated asset tracking system for a secure Northrop Grumman lab space, integrating RFID, microcontrollers, and a custom data management framework.
 	* [My team's blog](https://www.ippd.ufl.edu/blogs/ay2425team09/).
 
 * **1-D Time Domain Convolution on FPGA**, _Nov 2024 - Dec 2024_ <br>
 	* Achieved a **~15x performance speed-up** for 1-D convolution compared to a 667MHz ARM processor by designing a highly parallelized circuit on a Zedboard FPGA.
-	* Maximized throughput with pipelined and unrolled convolution loops and dual-clock DRAM DMA interface with FIFO and handshake for reliable data transfer and to mitigate metastability.
+	* Maximized throughput with pipelined and unrolled convolution loops and dual-clock DRAM DMA interface with FIFO and handshake for reliable data transfer and to mitigate **metastability**.
 	* Optimized memory bandwidth by implementing a smart buffer (sliding window) for efficient data reuse.
 	* [Report](/posts/2024/12/Reconfig-final-project/)
 
@@ -69,13 +69,16 @@ Work & Project Experience
 
 * **Circuit Analysis Tool**, _Apr 2023 – May 2023_ <br>
 	* Developed a C++ tool to calculate currents, voltages, and drops from netlist data.
-	* Improved efficiency by 20% with dynamic programming for complex circuits.
+	* Improved efficiency by **20%** with **dynamic programming** for complex circuits.
 
 
 Honors & Awards
 ======
 * **Ross Fellowship**, **_Purdue University_**, 2025
 	* A competitive, fully funded award for the recruitment of outstanding PhD candidates.
+
+* **Presidential Doctoral Excellence Awards**, **_Purdue University_**, 2025
+	* A multi-year, university-wide fellowship awarded to a select cohort of top incoming PhD candidates based on academic merit and research potential.
 
 * **Electric E Award**, **_University of Florida_**, 2025
 	* The ECE department's most prestigious award.
