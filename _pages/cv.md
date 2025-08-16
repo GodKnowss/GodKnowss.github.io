@@ -30,7 +30,7 @@ I aim to bridge fundamental theory with practical applications, using **digital 
 Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
-  _Purdue University, West Lafayette, Indiana_
+  _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
 	* Investigating wireless communication systems under the guidance of Dr. David Love. 
 	* Supervisor: [Dr. David Love](https://engineering.purdue.edu/~djlove/)
   
