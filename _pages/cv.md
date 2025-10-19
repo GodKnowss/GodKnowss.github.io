@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_08_15.pdf). <!--* everytime change, also change the config cv too -->
+You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_10_19.pdf). <!--* everytime change, also change the config cv too -->
 
 Education
 ======
@@ -31,7 +31,7 @@ Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
-	* Investigating wireless communication systems under the guidance of Dr. David Love. 
+	* Wireless communication systems and Information Theory, advised by Dr. David J. Love. 
 	* Supervisor: [Dr. David Love](https://engineering.purdue.edu/~djlove/)
   
 * May 2024 – Present: **Undergraduate Research Assistant** <br>
