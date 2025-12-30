@@ -26,15 +26,15 @@ Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
-	* Wireless communication systems and Information Theory
+	* Wireless communication systems and Information Theory.
   
 * May 2024 – Present: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  * Research using RFSoC and FPGA for wireless communication systems and spectrum sensing in drone applications
+  * Research using RFSoC and FPGA for wireless communication systems and spectrum sensing in drone applications.
 
 * May 2023 – Sep 2024: **REU Fellowship (Paid research assistant)** <br>
   _Smart Systems Lab (SSL), University of Florida, Gainesville, FL_ 
-  * Research experience with FPGA, OpenCV, and embedded systems development
+  * Research experience with FPGA, OpenCV, and embedded systems development.
 
   
 Work & Project Experience

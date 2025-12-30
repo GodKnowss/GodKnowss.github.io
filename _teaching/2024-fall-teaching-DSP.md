@@ -10,7 +10,7 @@ location: "Gainesville, USA"
 
 Foundations of DSP (EEE 5502)
 ======
-Led discussion sections, tutored students, and assisted Dr. Tan Wong with grading homework and exams and applying complex DSP concepts via MATLAB/Python. <br>
+TA for senior/graduate Digital Signal Processing. <br>
 
 Here is the [syllabus](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2024/syllabus-1%20%281%29.pdf).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Why Graduate School is Essential for Signal Processing and Communications Engineers - And Why the PhD Has Become the New Standard'
+title: 'Why do Graduate School?'
 date: 2025-06-28
 permalink: /posts/2025/06/Why-Grad-School/
 tags:
@@ -10,6 +10,7 @@ tags:
 
 To be complete! <br>
 
-The landscape has changed dramatically over the past decade. And the master's degree has become less valuable and less of a depth degree. 
+I think graduate school is much more interesting than my undergraduate studies. You can pursue the subjects that you like more with very minimal responsibility. <br>
+So, I am quite happy so far. Also, my lab and professor are great and I like them. 
 
 ------
