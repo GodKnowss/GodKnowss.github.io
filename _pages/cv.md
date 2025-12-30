@@ -9,21 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_10_19.pdf). <!--* everytime change, also change the config cv too -->
+<!-- You can also download my Resume/CV by clicking [this link](/files/Resume/MichaelTung_Resume_2025_10_19.pdf). --> <!--* everytime change, also change the config cv too -->
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Purdue University, 2029 (expected)
+* Ph.D in Electrical and Computer Engineering, Purdue University, 2030 (expected)
 <!--* M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in Electrical Engineering with Summa Cum Laude, University of Florida, 2025 (GPA: 4.00/4.00)
 
 
 # Research Interest
-My research focuses on **information theory** and its intersection in **communication systems** and **machine learning**, 
-with an additional focus on **stochastic processes**, **control systems**, and **optimization**. <br>
-
-I aim to bridge fundamental theory with practical applications, using **digital design** and **embedded systems** to solve challenges in scalable and secure real-time technologies. <br>
-
 **Key Areas**: Communication Systems | Information Theory | Machine Learning | Stochastic Processes | Control Theory | Optimization | Digital Design <br>
 
 
@@ -31,22 +26,15 @@ Research Experience
 ======
 * June 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
-	* Wireless communication systems and Information Theory, advised by Dr. David J. Love. 
-	* Supervisor: [Dr. David Love](https://engineering.purdue.edu/~djlove/)
+	* Wireless communication systems and Information Theory
   
 * May 2024 – Present: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  * Developed a real-time RF spectrum monitoring application using RFSoC and SDR for the detection and identification of unauthorized drone activity.
-  * Created a mathematical model and simulation code by collecting and analyzing RF data from diverse scenarios to explain real-world signal behaviors.
-  * Engaged actively in weekly lab meetings with Dr. John Shea, Dr. Tan Wong, and PhD. Students contribute insights, receive feedback, and foster project advancements.
-  * Supervisor: [Dr. John Shea](https://www.ece.ufl.edu/people/faculty/john-m-shea/) and [Dr. Tan Wong](https://www.ece.ufl.edu/people/faculty/tan-wong/)
+  * Research using RFSoC and FPGA for wireless communication systems and spectrum sensing in drone applications
 
 * May 2023 – Sep 2024: **REU Fellowship (Paid research assistant)** <br>
   _Smart Systems Lab (SSL), University of Florida, Gainesville, FL_ 
-  * Developed a 3D object tracking camera system using Python and OpenCV within the lab's testing space.
-  * Enhanced FFmpeg video stream performance by 30% by implementing CUDA hardware acceleration.
-  * Tested FPGA and microprocessor integration on drones to improve real-time system control
-  * Supervisor: [Dr. Christophe Bobda](https://www.ece.ufl.edu/people/faculty/christophe-bobda/)
+  * Research experience with FPGA, OpenCV, and embedded systems development
 
   
 Work & Project Experience
