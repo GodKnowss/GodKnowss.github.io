@@ -39,7 +39,9 @@ Research Experience
 
 Teaching Experience
 ======
- [Teaching](/teaching).
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Work & Project Experience
 ======
@@ -53,7 +55,7 @@ Work & Project Experience
 	* Achieved a **~15x performance speed-up** for 1-D convolution compared to a 667MHz ARM processor by designing a highly parallelized circuit on a Zedboard FPGA.
 	* Maximized throughput with pipelined and unrolled convolution loops and dual-clock DRAM DMA interface with FIFO and handshake for reliable data transfer and to mitigate **metastability**.
 	* Optimized memory bandwidth by implementing a smart buffer (sliding window) for efficient data reuse.
-	* [Report](/posts/2024/12/Reconfig-final-project/)
+	* [Report.](/posts/2024/12/Reconfig-final-project/)
 
 * **Pong Game on FPGA**, _Apr 2024 – May 2024_ <br>
 	* Developed a Pong game using VHDL with custom logic for game mechanics and VGA output.
@@ -118,11 +120,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
   
 <!--  

@@ -6,12 +6,15 @@ tags:
   - Purdue
 ---
 
+This is a post about the courses that I have taken or taking at Purdue.
+
 # Relevant Coursework
+
 Below is a list of courses that I have completed or enrolled at Purdue.
 
 ## Electrical and Computer Engineering
 
-- **[Digital Communications ECE 544](#digital-signal-processing)**  
+- **Digital Communications ECE 544**  
   Introduction to digital communication systems and spread spectrum communications. 
 
 - **[Introduction To Computer Communication Networks ECE 547](#computer-networks)**  
