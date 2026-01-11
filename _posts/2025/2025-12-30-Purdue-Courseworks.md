@@ -20,11 +20,19 @@ Below is a list of courses that I have completed or enrolled at Purdue.
 - **[Introduction To Computer Communication Networks ECE 547](#computer-networks)**  
   Queueing theory, network design, routing, dimensioning, optimization and control.
 
+- **Advanced Digital Communications ECE 679**  
+  OFDM and advanced digital Communications.
+  
+- **Wireless Communication Networks ECE 60022**  
+  Fundamental concepts in mobile wireless systems.
 
 ## Mathematics
 
 - **Real Analysis MA 504**  
   First 7 chapters of Baby Rudin. 
+  
+- **Measure Theory MA 544**  
+  Measure Theory.
 
 ---
 ## Extra content

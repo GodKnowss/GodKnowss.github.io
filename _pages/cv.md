@@ -30,7 +30,9 @@ Research Experience
   
 * May 2024 – Present: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  * Research using RFSoC and FPGA for wireless communication systems and spectrum sensing in drone applications.
+  *	Contributed to RFSoC and FPGA testbed development for wireless communication and spectrum sensing in drone applications.
+  * Performed signal processing analysis for drone communication systems.
+
 
 * May 2023 – May 2024: **REU Fellowship (Paid research assistant)** <br>
   _Smart Systems Lab (SSL), University of Florida, Gainesville, FL_ 

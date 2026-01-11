@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "MTsEntropy" #this is the site title, lets use information theory for now
+title                    : "Michael Tung" #this is the site title, lets use information theory for now
 title_separator          : "-"
 name                     : &name "Michael" #at the bottom of the website
 description              : &description "This is my second website hosted on Git Hub. Still learning how to use it." #this will pop up when you enter the website link
