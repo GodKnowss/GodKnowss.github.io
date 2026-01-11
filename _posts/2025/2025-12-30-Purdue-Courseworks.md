@@ -4,6 +4,7 @@ date: 2025-12-30
 permalink: /posts/2025/12/Purdue-Courseworks/
 tags:
   - Purdue
+  - Personal
 ---
 
 This is a post about the courses that I have taken or taking at Purdue.

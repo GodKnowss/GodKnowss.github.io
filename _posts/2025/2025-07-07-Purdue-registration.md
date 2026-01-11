@@ -9,19 +9,22 @@ tags:
 
 This is the website for registration for research credit. 
 
-https://engineering.purdue.edu/ECE/Academics/Graduates/General/how-to-register-for-research <br>
+<https://engineering.purdue.edu/ECE/Academics/Graduates/General/how-to-register-for-research> <br>
 
 Here is the website for classes in our field.
 
-https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS/CNSIP <br>
-https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS/Automatic-Control <br>
-https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS
+<https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS/CNSIP> <br>
+<https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS/Automatic-Control> <br>
+<https://engineering.purdue.edu/ECE/Academics/Graduates/MASTERS/POS>
 
 <br>
 Here is the rate my professor, but for Purdue classes. 
 
-https://boiler.courses/course/3349
+<https://boiler.courses/course/3349>
 
-https://boilerclasses.com/detail/MA50400RealAnalysis
+<https://boilerclasses.com/detail/MA50400RealAnalysis>
+
+Purdue GPA distribution:
+<https://www.boilergrades.com/>
 
 ------

@@ -14,7 +14,7 @@ TA for senior/graduate Digital Signal Processing. <br>
 
 <!-- Here is the [syllabus](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2024/syllabus-1%20%281%29.pdf). -->
 
-Here is the [syllabus](/files/UF_materials/Courses/syllabus-DSP).
+Here is the [syllabus](/files/UF_materials/Courses/syllabus-DSP.pdf).
 
 <!--
 Heading 1

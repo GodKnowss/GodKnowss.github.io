@@ -14,7 +14,7 @@ TA for undergraduate Electromagnetics (Maxwell's equations, wave propagation, fi
 
 <!-- Here is the [syllabus](https://www.ece.ufl.edu/academics/course-syllabi/). -->
 
-Here is the [syllabus](/files/UF_materials/Courses/Syllabus_EEL_3472_Spring-2025).
+Here is the [syllabus](/files/UF_materials/Courses/Syllabus_EEL_3472_Spring-2025.pdf).
 
 
 
