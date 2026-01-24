@@ -7,11 +7,9 @@ tags:
   - Personal
 ---
 
-This is a post about the courses that I have taken or taking at Purdue.
-
 # Relevant Coursework
 
-Below is a list of courses that I have completed or enrolled at Purdue.
+Below is a list of courses I have completed or am currently taking at Purdue.
 
 ## Electrical and Computer Engineering
 

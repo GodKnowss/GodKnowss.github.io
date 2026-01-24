@@ -13,9 +13,9 @@ redirect_from:
 <!-- # Welcome to My Website! -->
 
 ## About me
-Hi, I am currently a graduate student at Purdue University. I am interested in communication systems, digital design, control systems, information theory, 
+Greetings, I am currently a graduate student at Purdue University with research interests in communication systems, digital design, control systems, information theory, 
 and other related areas such as stochastic processes, signal processing, and coding theory. <br> 
-Prior to this, I earned my degree in Electrical Engineering from the University of Florida, where I graduated with the highest honors.
+Prior to this, I earned my B.S. in Electrical Engineering from the University of Florida, where I graduated with the highest honors.
 
 ---
 ### Recent Work

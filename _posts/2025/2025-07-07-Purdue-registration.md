@@ -24,7 +24,7 @@ Here is the rate my professor, but for Purdue classes.
 
 <https://boilerclasses.com/detail/MA50400RealAnalysis>
 
-Purdue GPA distribution:
+Purdue GPA distribution: <br>
 <https://www.boilergrades.com/>
 
 ------

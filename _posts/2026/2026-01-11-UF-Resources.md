@@ -12,10 +12,10 @@ Here are some useful resources for UF students.
 Campus map: <br>
 <https://campusmap.ufl.edu/#/>
 
-UF professor rating: <br>
+UF professors rating: <br>
 <https://gatorevals.aa.ufl.edu/public-results/>
 
 Other useful posts: <br>
-[My UF courseworks](/posts/2025/04/UF-Courseworks/).
+[My UF Courseworks](/posts/2025/04/UF-Courseworks/).
  
 ------

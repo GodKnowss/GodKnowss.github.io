@@ -28,9 +28,9 @@ Research Experience
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
 	* Wireless communication systems and Information Theory.
   
-* May 2024 – Present: **Undergraduate Research Assistant** <br>
+* May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  *	Contributed to RFSoC and FPGA testbed development for wireless communication and spectrum sensing in drone applications.
+  *	Contributed to SDR, RFSoC, and FPGA testbed development for wireless communication and spectrum sensing in drone applications.
   * Performed signal processing analysis for drone communication systems.
 
 
@@ -45,6 +45,7 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Work & Project Experience
 ======
 * **Capstone Design Project Engineer, Northrop Grumman Sponsored**, _Aug 2024 – May 2025_ <br>
