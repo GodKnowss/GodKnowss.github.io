@@ -6,7 +6,7 @@ permalink: /publication/2025-04-16-honors-thesis
 excerpt: 'UF ECE Undergraduate Honors Thesis'
 date: 2025-04-16
 venue: 'Undergraduate Honors Theses collection'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: '/files/UF_materials/Honors_Thesis/MT_honors_thesis.pdf'
 paperurl: '/files/UF_materials/Honors_Thesis/Michael_Tung_honors_thesis.pdf'
 citation: 'Tung, Michael. (2025). &quot;RF-Based Drone Detection Using RFSoC and SDR: Analysis and Automation Foundations.&quot; <i>Undergraduate Honors Theses collection</i>. 1(3).'
 ---

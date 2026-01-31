@@ -27,10 +27,11 @@ Research Experience
 * Aug 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
 	* Wireless communication systems and Information Theory.
+	* Developing feedback coding schemes for 5G/6G systems using Python to improve SNR performance and lower encoding/decoding complexity.
   
 * May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  *	Contributed to SDR, RFSoC, and FPGA testbed development for wireless communication and spectrum sensing in drone applications.
+  *	Contributed to Xilinx RFSoC and SDR testbed development for wireless communication and spectrum sensing in drone applications.
   * Performed signal processing analysis for drone communication systems.
 
 
@@ -51,7 +52,7 @@ Work & Project Experience
 * **Capstone Design Project Engineer, Northrop Grumman Sponsored**, _Aug 2024 – May 2025_ <br>
   **Northrop Grumman**, Melbourne, FL
 	* Awarded **"Best Team"** in the University's **IPPD** program, placing first among all teams for overall project excellence, execution, and presentation.
-	* Engineered an end-to-end automated asset tracking system for a secure Northrop Grumman lab space, integrating RFID, microcontrollers, and a custom data management framework.
+	* Engineered an end-to-end automated asset tracking system for a secure Northrop Grumman lab space, integrating RFID, RP2040 microcontrollers, and custom data management using Raspberry Pi 5 framework. 
 	* [My team's blog](https://www.ippd.ufl.edu/blogs/ay2425team09/).
 
 * **1-D Time Domain Convolution on FPGA**, _Nov 2024 - Dec 2024_ <br>
@@ -69,7 +70,7 @@ Work & Project Experience
 	* Improved efficiency by **20%** with **dynamic programming** for complex circuits.
 
 
-Honors & Awards
+Awards & Honors
 ======
 * **Ross Fellowship**, **_Purdue University_**, 2025
 	* A competitive, fully funded award for the recruitment of outstanding PhD candidates.
@@ -96,18 +97,18 @@ Skills
 * **Software Development:** Java, Python
 * **Machine Learning:** TensorFlow, Scikit-learn
 * **Technical Computing:** MATLAB
-* **Version Control:** Git
+* **Version Control:** Git, GitHub
 
 ## Digital Design & Hardware
 * **HDL Languages:** VHDL, SystemVerilog
 * **Verification:** UVM (Universal Verification Methodology)
-* **High-Level Synthesis:** Vitis HLS
+* **Tools & IDEs:** Vitis HLS, Xilinx Vivado, Intel Quartus, ModelSim
 * **Software Defined Radio:** GNU Radio
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
 * **Certifications:** Lean Six Sigma White Belt, NVIDIA Fundamentals of Deep Learning, Building Transformer-Based Natural Language Processing Applications
-* **Documentation:** Technical Writing, Microsoft Office
+* **Documentation:** Technical Writing, Microsoft Office, Latex
 * **Communication:** Professional Presentation, Cross-functional Collaboration
 
 

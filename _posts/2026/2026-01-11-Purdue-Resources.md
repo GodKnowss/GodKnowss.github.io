@@ -15,4 +15,9 @@ Campus map: <br>
 Another post: <br>
 [Previous useful post](/posts/2025/07/Purdue-registration/) for Purdue students. 
 
+Purdue ICON: <br>
+<https://engineering.purdue.edu/ICON> <br>
+<https://engineering.purdue.edu/ECN/mailman/listinfo/icon-students-list>
+
+
 ------

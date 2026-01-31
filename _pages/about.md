@@ -19,7 +19,7 @@ Prior to this, I earned my B.S. in Electrical Engineering from the University of
 
 ---
 ### Recent Work
-- New Feedback Coding Scheme
+- New Active Feedback Coding Scheme
 
 I am always open to new opportunities and collaborations. Feel free to explore and reach out!
 

@@ -11,4 +11,4 @@ paperurl: '/files/UF_materials/Honors_Thesis/Michael_Tung_honors_thesis.pdf'
 citation: 'NA'
 ---
 
-Working on it now!
+Working on it now! Developing feedback coding schemes for 5G/6G systems using Python to improve SNR performance and lower encoding/decoding complexity.
