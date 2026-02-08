@@ -27,7 +27,7 @@ Research Experience
 * Aug 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
 	* Wireless communication systems and Information Theory.
-	* Developing feedback coding schemes for 5G/6G systems using Python to improve SNR performance and lower encoding/decoding complexity.
+	* Developing a new active feedback coding scheme for 5G/6G systems using Python to improve SNR performance and lower encoding/decoding complexity.
   
 * May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
