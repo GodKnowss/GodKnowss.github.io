@@ -31,7 +31,7 @@ Research Experience
   
 * May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
-  *	Contributed to Xilinx RFSoC and SDR testbed development for wireless communication and spectrum sensing in drone applications.
+  *	Contributed to Xilinx RFSoC and SDR(B210) testbed development for wireless communication and spectrum sensing in drone applications.
   * Performed signal processing analysis for drone communication systems.
 
 
@@ -73,10 +73,10 @@ Work & Project Experience
 Awards & Honors
 ======
 * **Ross Fellowship**, **_Purdue University_**, 2025
-	* A competitive, fully funded award for the recruitment of outstanding PhD candidates.
+	* A competitive, fully funded fellowship for the recruitment of outstanding PhD candidates.
 
 * **Presidential Doctoral Excellence Awards**, **_Purdue University_**, 2025
-	* A multi-year, university-wide fellowship awarded to a select cohort of top incoming PhD candidates based on academic merit and research potential.
+	* A multi-year, university-wide scholarship awarded to a select cohort of top incoming PhD candidates based on academic merit and research potential.
 
 * **Electric E Award**, **_University of Florida_**, 2025
 	* The ECE department's most prestigious award.
@@ -107,7 +107,7 @@ Skills
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
-* **Certifications:** Lean Six Sigma White Belt, NVIDIA Fundamentals of Deep Learning, Building Transformer-Based Natural Language Processing Applications
+* **Certifications:** Lean Six Sigma White Belt, NVIDIA Fundamentals of Deep Learning, NVIDIA Building Transformer-Based Natural Language Processing Applications
 * **Documentation:** Technical Writing, Microsoft Office, Latex
 * **Communication:** Professional Presentation, Cross-functional Collaboration
 
