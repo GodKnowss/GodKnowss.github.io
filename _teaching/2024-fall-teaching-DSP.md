@@ -10,7 +10,7 @@ location: "Gainesville, Florida, USA"
 
 Foundations of DSP (EEE 5502)
 ======
-TA for senior/graduate Digital Signal Processing. <br>
+TA for 100+ senior/graduate Digital Signal Processing(DSP), clarifying concepts such as FFT and IIR/FIR filter design. <br>
 
 <!-- Here is the [syllabus](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2024/syllabus-1%20%281%29.pdf). -->
 

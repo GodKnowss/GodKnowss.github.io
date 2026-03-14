@@ -10,7 +10,7 @@ location: "Gainesville, Florida, USA"
 
 Electromagnetic Fields & Applications 1 (EEL 3472C)
 ======
-TA for undergraduate Electromagnetics (Maxwell's equations, wave propagation, field analysis). <br>
+TA for undergraduate Electromagnetics, such as Maxwell's equations, wave propagation, and transmission line theory. <br>
 
 <!-- Here is the [syllabus](https://www.ece.ufl.edu/academics/course-syllabi/). -->
 

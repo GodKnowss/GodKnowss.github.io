@@ -20,8 +20,8 @@ Purdue ICON: <br>
 <https://engineering.purdue.edu/ECN/mailman/listinfo/icon-students-list>
 
 Purdue CCO: <br>
-<https://www.cco.purdue.edu/>
-You can ask for their services to refine your graduate school statements and resume for jobs. 
+<https://www.cco.purdue.edu/> <br>
+You can ask for their services to refine your graduate school personal statements and resume for jobs. 
 
 
 ------

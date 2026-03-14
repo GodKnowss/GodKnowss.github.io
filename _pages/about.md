@@ -13,10 +13,10 @@ redirect_from:
 <!-- # Welcome to My Website! -->
 
 ## About me
-Greetings. I am currently a graduate student at Purdue University, supported by the Ross Fellowship and the Presidential Scholarship. 
-Prior to this, I earned my B.S. in Electrical Engineering with highest honors from the University of Florida, Gainesville, FL.
+Greetings. I am currently a graduate student at Purdue University, supported by the Ross Fellowship and the Presidential Award Scholarship. 
+Prior to this, I earned my B.S. in Electrical Engineering with Summa Cum Laude from the University of Florida, Gainesville, FL.
 
-My research interests include communication systems, digital design, control systems, information theory, and related areas such as stochastic processes, signal processing, and coding theory.
+My research interests include communication systems, digital design (FPGA & SDR), control systems, information theory, and related areas such as stochastic processes, signal processing, and coding theory.
 
 ---
 ### Recent Work

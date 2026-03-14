@@ -27,7 +27,7 @@ Research Experience
 * Aug 2025 - Present: **Graduate Research Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
 	* Wireless communication systems and Information Theory.
-	* Developing a new active feedback coding scheme for 5G/6G systems using Python to improve SNR performance and lower encoding/decoding complexity.
+	* Developing a new active feedback coding scheme for 5G/6G systems to improve SNR performance and lower encoding/decoding complexity.
   
 * May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
   _Wireless Information Networking Group (WING), University of Florida, Gainesville, FL_
@@ -73,7 +73,7 @@ Work & Project Experience
 Awards & Honors
 ======
 * **Ross Fellowship**, **_Purdue University_**, 2025
-	* A competitive, fully funded fellowship for the recruitment of outstanding PhD candidates.
+	* A competitive, fully funded 4-year fellowship for the recruitment of outstanding PhD candidates.
 
 * **Presidential Doctoral Excellence Awards**, **_Purdue University_**, 2025
 	* A multi-year, university-wide scholarship awarded to a select cohort of top incoming PhD candidates based on academic merit and research potential.
@@ -107,9 +107,9 @@ Skills
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
-* **Certifications:** Lean Six Sigma White Belt, NVIDIA Fundamentals of Deep Learning, NVIDIA Building Transformer-Based Natural Language Processing Applications
+* **Certifications:** Lean Six Sigma White Belt, [NVIDIA Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=r4DnMiNqSjGQcMDcE41Tbg), [NVIDIA Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=ed0rTnQjQei4hu-C3OSmYw)
 * **Documentation:** Technical Writing, Microsoft Office, Latex
-* **Communication:** Professional Presentation, Cross-functional Collaboration
+* **Communication:** Professional Presentation, Cross-functional Collaboration, Public Speaking
 
 
 Publications
