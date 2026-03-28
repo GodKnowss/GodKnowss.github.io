@@ -23,5 +23,7 @@ Purdue CCO: <br>
 <https://www.cco.purdue.edu/> <br>
 You can ask for their services to refine your graduate school personal statements and resume for jobs. 
 
+Other useful posts: <br>
+[My Purdue Courseworks](/posts/2025/12/Purdue-Courseworks/).
 
 ------

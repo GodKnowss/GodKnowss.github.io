@@ -25,7 +25,7 @@ Since most grad students are not exactly rolling in money, the fact that it is e
 
 Just make sure you file before the deadline. This year, it is April 15, 2026.
 
-![Indiana free file website](files/images/Screenshot_28-3-2026_155020_www.in.gov.jpeg)
+![Indiana free file website](/files/images/Screenshot_28-3-2026_155020_www.in.gov.jpeg)
 *Screenshot of the Indiana free file website*
 
 ------
