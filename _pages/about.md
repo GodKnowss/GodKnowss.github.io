@@ -20,6 +20,7 @@ Prior to this, I earned my B.S. in Electrical Engineering with Summa Cum Laude f
 
 My research interests include communication systems, digital design (FPGA & SDR), control systems, information theory, 
 and related areas such as machine learning, stochastic processes, signal processing, and coding theory.
+
 ---
 ### Recent Work
 - New Active Feedback Coding Scheme
