@@ -14,6 +14,8 @@ redirect_from:
 
 ## About me
 Greetings. I am currently a graduate student at Purdue University, supported by the Ross Fellowship and the Presidential Award Scholarship. 
+I have also recently been awarded the [2026 National Science Foundation (NSF) Graduate Research Fellowship](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList).
+ 
 Prior to this, I earned my B.S. in Electrical Engineering with Summa Cum Laude from the University of Florida, Gainesville, FL.
 
 My research interests include communication systems, digital design (FPGA & SDR), control systems, information theory, 
