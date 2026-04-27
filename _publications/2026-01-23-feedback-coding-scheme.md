@@ -1,5 +1,5 @@
 ---
-title: "New Feedback Coding Scheme"
+title: "Asymptotically Optimal Active Linear Feedback Coding for Noisy Feedback Channels."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-23-feedback-coding-scheme

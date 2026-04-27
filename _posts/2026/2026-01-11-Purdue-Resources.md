@@ -21,7 +21,9 @@ Purdue ICON: <br>
 
 Purdue CCO: <br>
 <https://www.cco.purdue.edu/> <br>
-You can ask for their services to refine your graduate school personal statements and resume for jobs. 
+<https://www.cco.purdue.edu/Home/myCCO> <br>
+<https://www.cco.purdue.edu/students/whatweoffer?tab=CCOHandbook> <br>
+You can ask for their services to refine your graduate school personal statements and job resumes. I believe one of the staff, Stephen Roach, is located at Young Hall.
 
 Other useful posts: <br>
 [My Purdue Courseworks](/posts/2025/12/Purdue-Courseworks/).

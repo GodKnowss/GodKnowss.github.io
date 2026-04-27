@@ -1,7 +1,7 @@
 ---
 title: 'UF Coursework'
 date: 2025-05-05
-permalink: /posts/2025/04/UF-Courseworks/
+permalink: /posts/2025/05/UF-Courseworks/
 tags:
   - UF
 ---
@@ -33,7 +33,7 @@ Below is a list of some of the key courses I have completed at UF.
 - **Digital Design** and **[Reconfigurable Computing](#reconfigurable-computing)** <!-- Hyperlink needs to be xxx-xxx. -->  
   Explored the design of adaptive systems using FPGAs, focusing on hardware acceleration of computational tasks. Optimized designs through pipeline implementation, timing analysis, and throughput improvement to achieve high-performance, efficient systems. See the [website](http://www.gstitt.ece.ufl.edu/courses/fall24/eel4720_5721/index.html).
 
-- **Reconfigurable Computing 2**  
+- **Reconfigurable Computing 1 + 2**  
   Focused on overcoming productivity bottlenecks in reconfigurable computing due to complex design challenges. Covered advanced topics, including high-performance FPGA application development using state-of-the-art FPGA boards and Universal Verification Methodology (UVM) for system verification. Explored research trends aimed at improving design methodologies and enhancing productivity in FPGA-based systems. See the [website](http://www.gstitt.ece.ufl.edu/courses/eel6935/index.html).
 
 - **Electronic Circuits II**  
@@ -47,10 +47,10 @@ Below is a list of some of the key courses I have completed at UF.
 
 ## Mathematics
 
-- **Real & Complex Analysis**  
+- **Complex Analysis**  
   Advanced calculus topics including real and complex number systems, metric spaces, and integration.
 
-- **Stochastic Methods**  
+- **Stochastic Methods 1/Random Processes**  
   Covered probability theory, random processes, and their applications in electrical engineering, including stochastic modeling for signal processing and communications.
 
 - **[Linear Algebra for Data Science](https://people.clas.ufl.edu/hwagner/mas-4115-linear-algebra-for-data-science/)**  

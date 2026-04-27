@@ -19,4 +19,9 @@ Thanks!
 ![Screenshot of my name listed on the official NSF GRFP awardee list](/files/images/nsf-award.png)
 *My name is on the official 2026 NSF Graduate Research Fellowship awardee list!*
 
+
+**Update:** Purdue Engineering has also officially announced this year's fellowship recipients. You can read the full press release here:
+[Purdue Engineering Students Secure Top NSF Graduate Research Fellowships](https://engineering.purdue.edu/Engr/Academics/Graduate/News/2026/purdue-engineering-students-secure-top-nsf-graduate-research-fellowships)
+
+
 ------

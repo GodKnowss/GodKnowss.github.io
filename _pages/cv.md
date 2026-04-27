@@ -22,11 +22,17 @@ Education
 **Key Areas**: Communication Systems | Information Theory | Machine Learning | Stochastic Processes | Control Theory | Optimization | Digital Design <br>
 
 
+Courseworks
+======
+[Purdue Coursework](/posts/2025/12/Purdue-Courseworks/)
+[UF Coursework](/posts/2025/05/UF-Courseworks/)
+
+
 Research Experience
 ======
 * Aug 2025 - Present: **NSF Graduate Research Fellow & Ross Fellow** <br>
   _TSAC Laboratory, Purdue University, West Lafayette, Indiana_
-	* Wireless communication systems and Information Theory.
+	* Wireless Communications systems and Information Theory.
 	* Developing a new active feedback coding scheme for 5G/6G systems to improve SNR performance and lower encoding/decoding complexity.
   
 * May 2024 – Aug 2025: **Undergraduate Research Assistant** <br>
@@ -51,7 +57,7 @@ Work & Project Experience
 ======
 * **Capstone Design Project Engineer, Northrop Grumman Sponsored**, _Aug 2024 – May 2025_ <br>
   **Northrop Grumman**, Melbourne, FL
-	* Awarded **"Best Team"** in the University's **IPPD** program, placing first among all teams for overall project excellence, execution, and presentation.
+	* Awarded "**Best Team**" in the University's **IPPD** program, placing first among all teams for overall project excellence, execution, and presentation.
 	* Engineered an end-to-end automated asset tracking system for a secure Northrop Grumman lab space, integrating RFID, RP2040 microcontrollers, and custom data management using Raspberry Pi 5 framework. 
 	* [My team's blog](https://www.ippd.ufl.edu/blogs/ay2425team09/).
 
@@ -110,7 +116,7 @@ Skills
 * **Circuit Design:** LTspice, Altium Designer
 
 ## Professional & Technical Skills
-* **Certifications:** [Lean Six Sigma White Belt](/files/certs/Screenshot_28-3-2026_155020_www.in.gov.jpeg), [NVIDIA Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=r4DnMiNqSjGQcMDcE41Tbg), [NVIDIA Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=ed0rTnQjQei4hu-C3OSmYw)
+* **Certifications:** [Lean Six Sigma White Belt](/files/certs/Whitebelt.pdf), [NVIDIA Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=r4DnMiNqSjGQcMDcE41Tbg), [NVIDIA Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=ed0rTnQjQei4hu-C3OSmYw)
 * **Documentation:** Technical Writing, Microsoft Office, Latex
 * **Communication:** Professional Presentation, Cross-functional Collaboration, Public Speaking
 
