@@ -20,13 +20,16 @@ Below is a list of courses I have completed or am currently taking at Purdue.
   Queueing theory, network design, routing, dimensioning, optimization and control.
 
 - **Advanced Digital Communications ECE 679**  
-  OFDM, advanced/modern digital Communications, and MIMO signal processing.
+  OFDM, advanced/modern digital Communications, and MIMO signal processing/information theory. <br>
+  [Syllabus](/files/Purdue_materials/syllabus_Spring26_merge.pdf)
   
 - **Wireless Communication Networks ECE 60022**  
-  Fundamental concepts in modern mobile wireless systems.
+  Fundamental concepts in modern mobile wireless systems, such as Lyapunov-based methods, Age of Information, and ISAC. <br>
+  [Syllabus](/files/Purdue_materials/ECE60022_syllabus.pdf)
 
 - **ECE Seminar ECE 694**  
-  Seminars.
+  15 Seminars.
+  [Syllabus](/files/Purdue_materials/Tentative_Schedule.pdf)
 
 ## Mathematics
 
@@ -34,7 +37,8 @@ Below is a list of courses I have completed or am currently taking at Purdue.
   First 7 chapters of Baby Rudin. 
   
 - **Measure Theory MA 544**  
-  Measure Theory: abstract measure space, Lebesgue integral, LP spaces, signed measure, FTC. 
+  Abstract Measure Theory: Abstract Measure Spaces, Lebesgue integral, LP spaces, signed measure, Radon–Nikodym theorem, Fundamental Theorem of Calculus. <br>
+  [Syllabus](/files/Purdue_materials/MA544SyllabusSpring2026.pdf)
 
 ---
 ## Extra content

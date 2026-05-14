@@ -24,7 +24,7 @@ Education
 
 Courseworks
 ======
-[Purdue Coursework](/posts/2025/12/Purdue-Courseworks/)
+[Purdue Coursework](/posts/2025/12/Purdue-Courseworks/) <br>
 [UF Coursework](/posts/2025/05/UF-Courseworks/)
 
 
@@ -79,12 +79,12 @@ Work & Project Experience
 Awards & Honors
 ======
 * **NSF Graduate Research Fellowship Program (GRFP)**, **_National Science Foundation_**, 2026
-	* NSF graduate fellowship supporting outstanding doctoral students in STEM fields.
+	* NSF graduate fellowship supporting outstanding graduate students in STEM fields.
 
 * **Ross Fellowship**, **_Purdue University_**, 2025
 	* University fellowship guaranteeing four years of PhD funding.
 
-* **Presidential Doctoral Excellence Awards**, **_Purdue University_**, 2025
+* **Presidential Excellence Awards**, **_Purdue University_**, 2025
 	* A multi-year, university-wide scholarship awarded to a select cohort of top incoming PhD candidates based on academic merit and research potential.
 
 * **Electric E Award**, **_University of Florida_**, 2025

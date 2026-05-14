@@ -1,5 +1,5 @@
 ---
-title: "Asymptotically Optimal Active Linear Feedback Coding for Noisy Feedback Channels."
+title: "Achieving Optimal SNR in Linear Feedback Coding with Noisy Feedback: Error Exponents and Second-Order Analysis."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-23-feedback-coding-scheme
