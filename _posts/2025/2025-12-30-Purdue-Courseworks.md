@@ -39,6 +39,9 @@ Below is a list of courses I have completed or am currently taking at Purdue.
 - **Measure Theory MA 544**  
   Abstract Measure Theory: Abstract Measure Spaces, Lebesgue integral, LP spaces, signed measure, Radon–Nikodym theorem, Fundamental Theorem of Calculus. <br>
   [Syllabus](/files/Purdue_materials/MA544SyllabusSpring2026.pdf)
+  
+- **Linear Algebra MA 511**  
+  Linear Algebra.
 
 ---
 ## Extra content
