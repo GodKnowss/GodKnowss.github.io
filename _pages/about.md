@@ -18,8 +18,8 @@ I have also recently been awarded the [2026 National Science Foundation (NSF) Gr
  
 Prior to this, I earned my B.S. in Electrical Engineering with Summa Cum Laude from the University of Florida, Gainesville, FL.
 
-My research interests include communication systems, digital design (FPGA & SDR), control systems, information theory, 
-and related areas such as machine learning, stochastic processes, signal processing, and coding theory.
+My research interests include communication systems, networking, digital design (FPGA & SDR), control systems, information theory, 
+and related areas such as machine learning, stochastic processes, signal processing, theory of computing, and coding theory.
 
 ---
 ### Recent Work

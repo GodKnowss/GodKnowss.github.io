@@ -28,20 +28,30 @@ Below is a list of courses I have completed or am currently taking at Purdue.
   [Syllabus](/files/Purdue_materials/ECE60022_syllabus.pdf)
 
 - **ECE Seminar ECE 694**  
-  15 Seminars.
+  15 Seminars. <br>
   [Syllabus](/files/Purdue_materials/Tentative_Schedule.pdf)
+
+- **Random Variables and Signals ECE 600**  
+  Wavied, since I have taken this in my undergraduate studies and have done measure theory. 
+
+- **Radar Engineering ECE 678**  
+  Plan to take it in the upcoming fall.
 
 ## Mathematics
 
 - **Real Analysis MA 504**  
   First 7 chapters of Baby Rudin. 
   
-- **Measure Theory MA 544**  
+- **Real Analysis and Measure Theory MA 544**  
   Abstract Measure Theory: Abstract Measure Spaces, Lebesgue integral, LP spaces, signed measure, Radon–Nikodym theorem, Fundamental Theorem of Calculus. <br>
   [Syllabus](/files/Purdue_materials/MA544SyllabusSpring2026.pdf)
   
 - **Linear Algebra MA 511**  
-  Linear Algebra.
+  Linear Algebra. <br>
+  [Syllabus](/files/Purdue_materials/MA511_Su26_Syllabus.pdf)
+
+- **Abstract Algebra MA 503**  
+  Plan to take it in the upcoming fall. 
 
 ---
 ## Extra content
