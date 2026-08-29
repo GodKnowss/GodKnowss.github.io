@@ -35,7 +35,11 @@ Below is a list of courses I have completed or am currently taking at Purdue.
   Wavied, since I have taken this in my undergraduate studies and have done measure theory. 
 
 - **Radar Engineering ECE 678**  
-  Plan to take it in the upcoming fall.
+  Radar Engineering.
+  
+- **Lumped System Theory ECE 602**  
+  Linear Lumped Systems.
+  [Syllabus](/files/Purdue_materials/ECE602_OC_Fa26_Syllabus.pdf)
 
 ## Mathematics
 
@@ -51,7 +55,10 @@ Below is a list of courses I have completed or am currently taking at Purdue.
   [Syllabus](/files/Purdue_materials/MA511_Su26_Syllabus.pdf)
 
 - **Abstract Algebra MA 503**  
-  Plan to take it in the upcoming fall. 
+  Group theory: definitions, examples, subgroups, quotient groups, homomorphisms, and isomorphism theorems. <br>
+  Ring theory: definitions, examples, homomorphisms, ideals, quotient rings, fraction fields, polynomial rings, Euclidean domains, and unique factorization domains. <br>
+  Field theory: algebraic field extensions, straightedge and compass constructions. 
+  
 
 ---
 ## Extra content
